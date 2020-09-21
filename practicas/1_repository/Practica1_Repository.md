@@ -11,4 +11,4 @@
 
   Si tienes dificultades con este proceso, puedes visitar [este sitio de GitHub](https://docs.github.com/en/github/getting-started-with-github/set-up-git) con el procedimiento más detallado.
 
-Una vez que cuentes con estso requisitos podrás llevar a cabo la primera práctica del curso.
+Una vez que cuentes con estos requisitos podrás llevar a cabo la primera práctica del curso.
