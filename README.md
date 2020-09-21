@@ -1,4 +1,8 @@
-# Licencuatura en Tecnología - Computación I 
+# Licenciatura en Tecnología - Computación I
 ## Semestre 2021-1
 
-# Prácticas 
+# Prácticas
+
+|Práctica|Temas|Recursos|Fecha de realización|
+|--|--|--|--|
+|#1: Repository|<ol><li>Git</li><li>GitHub</li></ol>|<ul><li>[Presentación](practicas/1_repository/repositoryPresentacion.pdf)</li></ul>|24/09/20|
