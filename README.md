@@ -1,4 +1,4 @@
-# Licencuatura en Tecnología - Computación I
-## Senmestre 2021-1
+# Licencuatura en Tecnología - Computación I 
+## Semestre 2021-1
 
-# 
+# Prácticas 
