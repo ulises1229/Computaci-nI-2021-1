@@ -25,5 +25,3 @@ Para este proyecto tendrás que lograr los siguientes objetivos:
   - **Versión 1**: Escribirás el título de tu archivo en un encabezado de nivel 1. Posteriormente, en encabezados de nivel 2 anotarás al menos tres materias que vas a tomar en este semestre.
   - **Versión 2**: Anotarás, en negritas, debajo del título de cada materia, el nombre del profesor(a) que la impartirá.
   - **Versión 3**: En esta versión anotarás debajo del nombre del profesor, en una lista no ordenada, los días en que vas a tener esa materia. Cada uno de esos días, tendrá una lista anidada con un elemento: el horario en que se impartirá la asignatura.
-
-Puedes consultar cómo dar formato a un archivo con extensión *.md* (MarkDown) en la [siguiente liga](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) que contiene las especificaciones básicas del lenguaje de marcado.
