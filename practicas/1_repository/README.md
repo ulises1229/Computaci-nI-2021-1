@@ -9,7 +9,7 @@
 
 ## Recursos
 
-[RepositoryPresentacion.pdf](RepositoryPresentacion.pdf) es la presentación utilizada durante la clase para explicar el uso básico de Git.
+[RepositoryPresentacion.pdf](RepositoryPresentacion.pdf) es la presentación utilizada durante la clase para explicar el uso básico de Git y GitHub.
 
 [Practica1_Repository.md](Practica1_Repository) es el archivo que contiene la práctica que tendrás que llevar a cabo.
 
@@ -24,7 +24,7 @@ Esta práctica requiere que cuentes con una cuenta en GitHub, así como que cuen
   - Abre una terminal/símbolo del sistema y ejecuta el siguiente comando `git config --global user.name "usuario"` cambiando `usuario` por el usuario de tu cuenta de GitHub. Puedes ver más información sobre este proceso [en este sitio de GitHub](https://docs.github.com/en/github/using-git/setting-your-username-in-git).
   - Una vez que tengas tu usuario, tendrás que seguir un procedimiento similar para tu correo electrónico, ejecutando el comando `git config --global user.email "tucorreo@dominio.com"` con el correo correspondiente a tu cuenta de GitHub. Si quieres más información sobre este proceso puedes encontrarla en [este sitio de GitHub](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address).
 
-  Si tienes dificultades con este proceso, puedes visitar [este sitio de GitHub](https://docs.github.com/en/github/getting-started-with-github/set-up-git) con el procedimiento más detallado.
+  Si tienes dificultades, puedes visitar [este sitio de GitHub](https://docs.github.com/en/github/getting-started-with-github/set-up-git) con la documentación oficial del proceso.
 
 Una vez que cuentes con estos requisitos podrás llevar a cabo la primera práctica del curso.
 
@@ -32,5 +32,5 @@ Una vez que cuentes con estos requisitos podrás llevar a cabo la primera práct
 
 * [Especificaciones básicas del lenguaje de marcado MarkDown en GitHub.](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 * [Especificaciones para sincronizar Git con tu cuenta de GitHub.](https://docs.github.com/en/github/getting-started-with-github/set-up-git)
-* [Especificaciones para instalar GitHub Desktop en tu computadora](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/setting-up-github-desktop)
-* [Almacenar las credenciales de GitHub en la memoria de tu computadora](https://docs.github.com/en/github/using-git/caching-your-github-credentials-in-git)
+* [Especificaciones para instalar GitHub Desktop en tu computadora.](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/setting-up-github-desktop)
+* [Almacenar las credenciales de GitHub en la memoria de tu computadora.](https://docs.github.com/en/github/using-git/caching-your-github-credentials-in-git)
