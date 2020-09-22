@@ -11,7 +11,7 @@
 
 [RepositoryPresentacion.pdf](RepositoryPresentacion.pdf) es la presentación utilizada durante la clase para explicar el uso básico de Git y GitHub.
 
-[Practica1_Repository.md](Practica1_Repository) es el archivo que contiene la práctica que tendrás que llevar a cabo.
+[Practica1_Repository.md](Practica1_Repository) es el archivo que contiene las instrucciones de la práctica que tendrás que llevar a cabo.
 
 ### Pre-requisitos
 
