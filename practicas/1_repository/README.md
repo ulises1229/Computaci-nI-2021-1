@@ -1,6 +1,21 @@
 # Práctica 1: Repository
 
-## Pre-requisitos
+## Fecha de realización: 24/08/2020
+
+## Temas
+
+* Git
+* GitHub
+
+## Recursos
+
+[RepositoryPresentacion.pdf](RepositoryPresentacion.pdf) es la presentación utilizada durante la clase para explicar el uso básico de Git.
+
+[Practica1_Repository.md](Practica1_Repository) es el archivo que contiene la práctica que tendrás que llevar a cabo.
+
+### Pre-requisitos
+
+Esta práctica requiere que cuentes con una cuenta en GitHub, así como que cuentes con la última versión de Git configurada y sincronizada con tu cuenta de GitHub. Para lograrlo puedes seguir los siguientes pasos:
 
 * Descargar la última versión de Git desde [el sitio oficial](https://git-scm.com/downloads) para tu sistema operativo.
 * Crear una cuenta gratuita en [GitHub](https://github.com/) con tu correo electrónico (ya sea el personal o el institucional).
