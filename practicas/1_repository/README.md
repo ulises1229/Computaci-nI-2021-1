@@ -27,3 +27,10 @@ Esta práctica requiere que cuentes con una cuenta en GitHub, así como que cuen
   Si tienes dificultades con este proceso, puedes visitar [este sitio de GitHub](https://docs.github.com/en/github/getting-started-with-github/set-up-git) con el procedimiento más detallado.
 
 Una vez que cuentes con estos requisitos podrás llevar a cabo la primera práctica del curso.
+
+## Sitios de interés
+
+* [Especificaciones básicas del lenguaje de marcado MarkDown en GitHub.](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+* [Especificaciones para sincronizar Git con tu cuenta de GitHub.](https://docs.github.com/en/github/getting-started-with-github/set-up-git)
+* [Especificaciones para instalar GitHub Desktop en tu computadora](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/setting-up-github-desktop)
+* [Almacenar las credenciales de GitHub en la memoria de tu computadora](https://docs.github.com/en/github/using-git/caching-your-github-credentials-in-git)
