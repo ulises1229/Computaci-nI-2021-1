@@ -5,6 +5,7 @@
 
 ## Profesores
 Dr. Ulises Olivares Pinto
+
 Walter André Rosales Reyes
 
 ## Objetivo
@@ -16,3 +17,5 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 |Práctica|Temas|Recursos|Fecha de realización|
 |--|--|--|--|
 |#1: Repository|<ol><li>Git</li><li>GitHub</li><li>MarkDown</li></ol>|<ul><li>[Presentación](practicas/1_repository/RepositoryPresentacion.pdf)</li><li>[Práctica](practicas/1_repository)</li></ul>|24/09/20|
+
+#### Última modificación: 24 de septiembre de 2020
