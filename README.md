@@ -1,6 +1,16 @@
 # Licenciatura en Tecnología - Computación I
 ## Semestre 2021-1
 
+![alt text](figs/logo.png)
+
+## Profesores
+Dr. Ulises Olivares Pinto
+Walter André Rosales Reyes
+
+## Objetivo
+Dotar al estudiante de habilidades básicas de programación y capacidad de abstracción lógica para la solución de problemas utilizando el lenguaje de programación C++ y Python.   
+
+
 # Prácticas
 
 |Práctica|Temas|Recursos|Fecha de realización|
