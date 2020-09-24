@@ -1,6 +1,6 @@
 # Práctica 1: Repository
 
-## Fecha de realización: 24/08/2020
+## Fecha de realización: 24/09/2020
 
 ## Temas
 
@@ -34,3 +34,16 @@ Una vez que cuentes con estos requisitos podrás llevar a cabo la primera práct
 * [Especificaciones para sincronizar Git con tu cuenta de GitHub.](https://docs.github.com/en/github/getting-started-with-github/set-up-git)
 * [Especificaciones para instalar GitHub Desktop en tu computadora.](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/setting-up-github-desktop)
 * [Almacenar las credenciales de GitHub en la memoria de tu computadora.](https://docs.github.com/en/github/using-git/caching-your-github-credentials-in-git)
+
+## Recursos adicionales
+#### Comandos de Git
+
+|Acción|Comando|
+|--|--|
+|Clonar un repo de GitHub|`git clone <GHRepoURL> <path>`|
+|Añadir un archivo al siguiente *commit*|`git add <filename>`|
+|Añadir todos los archivo al siguiente *commit*|`git add --all`|
+|Hacer un *commit* (guardar una versión)|`git commit -m "<message>"`|
+|Hacer un *push* (subir cambios a GitHub)|`git push <GHRepoURL>`|
+
+Para más información sobre su uso puedes visitar [este sitio](https://github.com/git-guides/git-init) con los comandos básicos de Git para GitHub.
