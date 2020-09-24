@@ -3,9 +3,10 @@
 
 ![alt text](figs/logo.png)
 
-## Profesores
+## Profesor
 Dr. Ulises Olivares Pinto
 
+### Auxiliar
 Walter André Rosales Reyes
 
 ## Objetivo
