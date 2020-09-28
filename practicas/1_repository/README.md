@@ -1,6 +1,6 @@
 # Práctica 1: Repository
 
-## Fecha de realización: 24/09/2020
+## Fecha: 24/09/2020
 
 ## Temas
 
