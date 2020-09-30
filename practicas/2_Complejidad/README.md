@@ -1,6 +1,6 @@
 # Práctica 2: Complejidad
 
-## Fecha de realización: 01/09/2020
+## Fecha de realización: 01/10/2020
 
 ## Temas
 
