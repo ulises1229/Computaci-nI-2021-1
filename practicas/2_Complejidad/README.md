@@ -1,4 +1,4 @@
-# Práctica 2: Complejidad
+# Práctica 2: Notación Asintótica y Complejidad Computacional
 
 ## Fecha de realización: 01/10/2020
 
