@@ -12,6 +12,8 @@
 
 ## Recursos
 
+[ComplejidadPresentacion.pdf](ComplejidadPresentacion.pdf) es la presentación utilizada durante la clase para explicar el concepto de complejidad computacional.
+
 [Práctica2_Complejidad.md](Practica2_Complejidad.md) es el archivo que contiene las instrucciones de la práctica que tendrás que llevar a cabo. (Es recomendable copiar este archivo a tu propio repositorio de GitHub y ahí hacer las modificaciones solicitadas).
 
 ## Sitios de interés
