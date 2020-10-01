@@ -1,4 +1,4 @@
-# Práctica 2: Complejidad
+# Práctica 2: Notación Asintótica y Complejidad Computacional
 
 ## Introducción
 
