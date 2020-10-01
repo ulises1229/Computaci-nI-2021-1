@@ -122,7 +122,7 @@ for each valx in valores_x:
       y_contiene_x <- true
   if y_contiene_x == false:
     return false
-  return true
+return true
 ```
 
 ##### Resultados
