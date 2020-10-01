@@ -12,7 +12,7 @@
 
 ## Recursos
 
-[Practica2_Complejidad.md](Practica2_Complejidad.md) es el archivo que contiene las instrucciones de la práctica que tendrás que llevar a cabo. (Recomendable copiar este archivo a tu propio repo de GitHub y ahí hacer las modificaciones solicitadas).
+[Práctica2_Complejidad.md](Practica2_Complejidad.md) es el archivo que contiene las instrucciones de la práctica que tendrás que llevar a cabo. (Es recomendable copiar este archivo a tu propio repositorio de GitHub y ahí hacer las modificaciones solicitadas).
 
 ## Sitios de interés
 
