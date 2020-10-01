@@ -17,6 +17,7 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 
 |Práctica|Temas|Recursos|Fecha|
 |--|--|--|--|
-|<ol><li>Repository</li></ol>|<ol><li>Git</li><li>GitHub</li><li>MarkDown</li></ol>|<ul><li>[Presentación](practicas/1_repository/RepositoryPresentacion.pdf)</li><li>[Práctica](practicas/1_repository)</li> <li>[Sintaxis Markdown](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) </li></ul>|24/09/20|
+|1.Repository|<ol><li>Git</li><li>GitHub</li><li>MarkDown</li></ol>|<ul><li>[Presentación](practicas/1_repository/RepositoryPresentacion.pdf)</li><li>[Práctica](practicas/1_repository)</li> <li>[Sintaxis Markdown](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) </li></ul>|24/09/20|
+|2.Complejidad|<ol><li>Pseudocódigo</li><li>Complejidad computacional</li></ol>|<ul><li>[Práctica](practicas/2_Complejidad)</li> </ul>|01/10/20|
 
-#### Última modificación: 24 de septiembre de 2020
+#### Última modificación: 29 de septiembre de 2020
