@@ -60,7 +60,7 @@ x
 y
 ------
 resultado <- 1
-for i form 1 to y:
+for i from 1 to y:
   resultado <- resultado * x
 return resultado
 ```
