@@ -21,4 +21,4 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 |2.Complejidad|<ol><li>Pseudocódigo</li><li>Complejidad computacional</li></ol>|<ul><li>[Presentación (actualizada)](practicas/2_Complejidad/ComplejidadPresentacion.pdf)</li><li>[Práctica(actualizada)](practicas/2_Complejidad)</li> </ul>|01/10/20|
 |3.Calculadora|<ol><li>Lenguaje C++</li><li>Instrucciones de control (condicionales)</li><li>Operadores aritméticos</li><li>Operadores lógicos</li><li>Estructuras de datos</li></ol>|<ul><li>[Práctica](practicas/3_Calculadora)</li> </ul>|08/10/20|
 
-#### Última modificación: 06 de octubre de 2020
+#### Última modificación: 07 de octubre de 2020

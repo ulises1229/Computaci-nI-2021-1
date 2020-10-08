@@ -13,7 +13,16 @@
 
 [Práctica3_Calculadora.md](Practica3_Calculadora.md) contiene todas las instrucciones necesarias para llevar a cabo la práctica.
 
-_**Nota**: puede ser buen momento para comenzar a utilizar GitHub para tus proyectos en código. Como recomendación, si vas a optar por ello, sube únicamente el código fuente (i.e. los archivo(s) con extensión .c y/o .cpp), ya que estos son los necesarios para replicar tu trabajo en otra computadora._
+## Pre-requisitos
+
+**IMPORTANTE**: deberás de cumplir con las siguientes indicaciones, de forma contraria podría haber problemas con la revisión de tu práctica.
+
+El código fuente de la solución de tu práctica (que deberá tener una extensión .cpp) deberá de estar en tu cuenta de GitHub. Para ello tendrás que:
+* Crear un nuevo repository en GitHub, el cual deberá de llamarse `PracticasComputacionI` (copia y pega el nombre, para que no existan errores).
+* Dentro de este repository deberás de crear una carpeta llamada `Calculadora`.
+* El nombre de tu archivo fuente deberá de ser `Calculadora.cpp`.
+
+En esta carpeta `Calculadora` es donde se deberá de encontrar tu archivo de C++ llamado `Calculadora.cpp`. Puedes probar que esto sea correcto accediendo a `https://github.com/TUUSUARIO/PracticasComputacionI/Calculadora/Calculadora.cpp` desde tu navegador, modificando el valor de `TUUSUARIO` con tu nombre de usuario de GitHub. Al ingresar a esta URL deberá de aparecer tu código fuente que será la solución a esta práctica.
 
 ## Sitios de interés
 
