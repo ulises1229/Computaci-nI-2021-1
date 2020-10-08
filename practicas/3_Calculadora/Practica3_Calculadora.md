@@ -100,15 +100,9 @@ else
 }
 ```
 
-<<<<<<< HEAD
 _**Nota:** recuerda que `std::cout` imprime texto en pantalla, permitiendo que el usuario pueda recibir información sobre el código que se está ejecutando._
 
 En ese código se pueden identificar tres instrucciones de control: `if`, `else if` y `else`. En el caso de la instrucción `if` podemos notar que, dada la operación, dependiendo de la condición `x < 2` si se cumple, entonces podemos asumir que `x` es menor que 2, y por tanto se ejecutará el código que aparece entre llaves _{}_ indetiatamente debajo de la condición. De no cumplirse esa condición, se pasaría a evaluar la segunda condición, que sería el `else if`, en el ejemplo se cumpliría si el valor de `x` es exactamente igual a 2, y por tanto se ejecutaría la línea entre las llaves inmediatamente debajo de la condición. Por último, si ninguna de las dos condiciones se cumplieron, entonces se ejecuta aquello que se encuentre en la condición `else`, y que en nuestro ejemplo representaría que el valor de `x` es mayor a 2.
-=======
-_**Nota:** recuerda que `std::cout` permite imprimir texto en pantalla, permitiendo que el usuario pueda recibir información sobre el código que se está ejecutando._
-
-En ese código se pueden identificar tres instrucciones de control: `if`, `else if` y `else`. En el caso de la instrucción `if` podemos notar que, dada la operación, dependiendo de la condición `x < 2` si se cumple, entonces podemos asumir que `x` es menor que 2, y por tanto se ejecutará el código que aparece entre llaves _{}_ indetiatamente debajo de la condición. De no cumplirse esa condición, se pasaría a evaluar la segunda condición, que sería el `else if`, en el ejemplo se cumpliría si el valor de `x` es exactamente igual a 2, y por tanto se ejecutaría la línea entre las llaves inmediatamente debajo de la condición. Por último, si ninguna de las dos condiciones se cumplieron, entonces se ejecuta aquellos que se encuentre en la condición `else`, y que en nuestro ejemplo representaría que el valor de `x` es mayor a 2.
->>>>>>> d376711ed2dd8c54a54776ca1792876219b28f74
 
 Es importante recalcar que después de una condición `if` puede haber tantos `else if` como sean necesarios, incluso puede no haber. Igualmente se puede omitir (si así se desea) la condición de `else` y por tanto, de no cumplirse las condiciones `if` y `else if` anteriores, simplemente no sucedería nada.
 
