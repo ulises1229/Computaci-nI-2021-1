@@ -22,7 +22,7 @@ El código fuente de la solución de tu práctica (que deberá tener una extensi
 * Dentro de este repository deberás de crear una carpeta llamada `Calculadora`.
 * El nombre de tu archivo fuente deberá de ser `Calculadora.cpp`.
 
-En esta carpeta `Calculadora` es donde se deberá de encontrar tu archivo de C++ llamado `Calculadora.cpp`. Puedes probar que esto sea correcto accediendo a `https://github.com/TUUSUARIO/PracticasComputacionI/Calculadora/Calculadora.cpp` desde tu navegador, modificando el valor de `TUUSUARIO` con tu nombre de usuario de GitHub. Al ingresar a esta URL deberá de aparecer tu código fuente que será la solución a esta práctica.
+En esta carpeta `Calculadora` es donde se deberá de encontrar tu archivo de C++ llamado `Calculadora.cpp`. Puedes probar que esto sea correcto accediendo a `https://github.com/TUUSUARIO/PracticasComputacionI/blob/master/Calculadora/Calculadora/Calculadora.cpp` desde tu navegador, modificando el valor de `TUUSUARIO` con tu nombre de usuario de GitHub. Al ingresar a esta URL deberá de aparecer tu código fuente que será la solución a esta práctica.
 
 ## Sitios de interés
 
