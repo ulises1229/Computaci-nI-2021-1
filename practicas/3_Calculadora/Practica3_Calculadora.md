@@ -37,8 +37,8 @@ x = 3 * 4; // x = 12
 x = 10 % 2; // x = 0
 ```
 
-### Operadores lógicos
-De forma similar a los operadores aritméticos, existen operadores lógicos que permiten comparar variables. Dentro de los más comúnes en C++ se encuentran:
+### Operadores relacionales y de comparación
+De forma similar a los operadores aritméticos, existen operadores que permiten comparar variables. Dentro de los más comúnes en C++ se encuentran:
 
 |Operador|Descripción breve|
 |-|-|
@@ -57,7 +57,8 @@ Algunos ejemplos son:
 (15 != 3); //verdadero
 ```
 
-También existen operadores binarios, los cuales se represntan de la siguiente forma:
+### Operadores lógicos
+También existen operadores binarios, dos de los más comúnes (_AND_ y _OR_) se representan de la siguiente forma:
 
 |Operador|Descripción breve|
 |-|-|
