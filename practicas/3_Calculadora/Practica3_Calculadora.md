@@ -103,7 +103,7 @@ else
 
 _**Nota:** recuerda que `std::cout` imprime texto en pantalla, permitiendo que el usuario pueda recibir información sobre el código que se está ejecutando._
 
-En ese código se pueden identificar tres instrucciones de control: `if`, `else if` y `else`. En el caso de la instrucción `if` podemos notar que, dada la operación, dependiendo de la condición `x < 2` si se cumple, entonces podemos asumir que `x` es menor que 2, y por tanto se ejecutará el código que aparece entre llaves _{}_ indetiatamente debajo de la condición. De no cumplirse esa condición, se pasaría a evaluar la segunda condición, que sería el `else if`, en el ejemplo se cumpliría si el valor de `x` es exactamente igual a 2, y por tanto se ejecutaría la línea entre las llaves inmediatamente debajo de la condición. Por último, si ninguna de las dos condiciones se cumplieron, entonces se ejecuta aquello que se encuentre en la condición `else`, y que en nuestro ejemplo representaría que el valor de `x` es mayor a 2.
+En ese código se pueden identificar tres instrucciones de control: `if`, `else if` y `else`. En el caso de la instrucción `if` podemos notar que, dada la operación, dependiendo de la condición `x < 2` si se cumple, entonces podemos asumir que `x` es menor que 2, y por tanto se ejecutará el código que aparece entre llaves _{}_ inmediatamente debajo de la condición. De no cumplirse esa condición, se pasaría a evaluar la segunda condición, que sería el `else if`, en el ejemplo se cumpliría si el valor de `x` es exactamente igual a 2, y por tanto se ejecutaría la línea entre las llaves inmediatamente debajo de la condición. Por último, si ninguna de las dos condiciones se cumplieron, entonces se ejecuta aquello que se encuentre en la condición `else`, y que en nuestro ejemplo representaría que el valor de `x` es mayor a 2.
 
 Es importante recalcar que después de una condición `if` puede haber tantos `else if` como sean necesarios, incluso puede no haber. Igualmente se puede omitir (si así se desea) la condición de `else` y por tanto, de no cumplirse las condiciones `if` y `else if` anteriores, simplemente no sucedería nada.
 
@@ -117,7 +117,7 @@ En esta práctica tendrás que implementar un código en C++ que emule el compor
 * División
 * Módulo
 
-Para ello tendrá tres variables de entrada: un primer número, después indicará la operación a realizar y finalmente el segundo número.
+Para ello tendrá tres variables de entrada: un primer número, el símbolo de la operación a realizar y finalmente el segundo número.
 
 Tu programa tendrá que pedirle al usuario esta información en ese orden, primero indicará el primer número, luego la operación a llevar a cabo (para ello tendrá que escribir el caracters de la operación, por ejemplo el signo `+` para indicar una suma, `-` para la resta, `*` para la multiplicación, `/` para la división y finalmente `%` para el módulo) y posteriormente ingresará el segundo número.
 
