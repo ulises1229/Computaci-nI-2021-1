@@ -3,4 +3,4 @@
 |-|-|-|-|-|-|-|-|-|-|-|-|
 |80755b|Calculadora|NULL|NULL|NULL|NULL|NULL|NULL|NULL|NULL|NULL|No tienes ningún archivo en Isaac-Vargas/PracticasComputacionI/Calculadora|
 
-Última actualización: 12-10-2020 22:46
+Última actualización: 12-10-2020 22:57
