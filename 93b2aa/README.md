@@ -1,6 +1,6 @@
 # Calificaciones: 93b2aa
 |ID|Project|Exists|Compiles|CommitHash|CommitDate|CheckDate|Comments|
 |-|-|-|-|-|-|-|-|
-|93b2aa|Calculadora|True|True|6261ce0badc64cf4c2ab247303780ea784415211|11-10-2020 18:56:41|12-10-2020 23:05:30|NULL|
+|93b2aa|Calculadora|❌|❌|6261ce0badc64cf4c2ab247303780ea784415211|11-10-2020 18:56:41|13-10-2020 09:17:48|NULL|
 
-�ltima actualizaci�n: 12-10-2020 23:05
+Última actualización: 13-10-2020 09:17
