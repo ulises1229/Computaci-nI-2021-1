@@ -61,4 +61,4 @@ Factor: 2
 Resultado: 4 8 12
 ```
 
-Nota que en este último caso se hizo el intento de ejecutar la operación `/` la cual no está permitida, por lo que se vulve a hacer la misma pregunta al usuario hasta que ingresa un símbolo válido, en este caso `*` que corresponde a la multiplicación.
+Nota que en este último caso se hizo el intento de ejecutar la operación `/` la cual no está permitida, por lo que se vuelve a hacer la misma pregunta al usuario hasta que ingresa un símbolo válido, en este caso `*` que corresponde a la multiplicación.
