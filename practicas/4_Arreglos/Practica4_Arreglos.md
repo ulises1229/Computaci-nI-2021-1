@@ -32,7 +32,7 @@ Este código contiene cuatro definiciones de funciones:
 
 ## Implementación
 
-Tu proyecto consistirá en completar las funciones `LlenarArreglo`, `MultiplicarArreglo` y `SumarArreglos` de forma que lleven a cabo el funcionamiento indicado en la descripción de cada una. Estas funciones tienen una sección marcada como `TODO`, misma en la que tendrás que escribir el cóodigo de tu implementación.
+Tu proyecto consistirá en completar las funciones `LlenarArreglo`, `MultiplicarArreglo` y `SumarArreglos` de forma que lleven a cabo el funcionamiento indicado en la descripción de cada una. Estas funciones tienen una sección marcada con el comentario `// TODO`, misma en la que tendrás que escribir el código de tu implementación.
 
 ### Ejemplo de funcionamiento
 A continuación se muestra un ejemplo de cómo debería de lucir la ejecución de tu código considerando la operación de suma.
