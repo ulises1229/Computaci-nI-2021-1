@@ -9,6 +9,7 @@
 ## Recursos
 
 [Práctica4_Arreglos.md](Practica4_Arreglos.md) contiene todas las instrucciones necesarias para llevar a cabo la práctica.
+
 [Arreglos.cpp](Arreglos.cpp) contiene el código inicial para tu práctica. Sobre este código vas a trabajar, por lo tanto te recomendamos desacragarlo o copiarlo y pegarlo en tu IDE de C++.
 
 ## Pre-requisitos
