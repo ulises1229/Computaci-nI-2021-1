@@ -25,8 +25,4 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 Puedes encontrar las revisiones de tus práctocas en [este sitio](https://github.com/ulises1229/ComputacionI-2021-1/tree/Grades)
 
 
-<<<<<<< Updated upstream
-#### Última modificación: 12 de octubre de 2020
-=======
 #### Última modificación: 15 de octubre de 2020
->>>>>>> Stashed changes
