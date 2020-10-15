@@ -6,7 +6,7 @@ Para esta práctica tendrás que implementar un código que haga dos operaciones
 - **Multiplicación** de un arreglo por un escalar (un número real).
 - **Suma** entre dos arreglos elemento a elemento.
 
-Para llevar a cabo esta implementación tendrás contarás con [este código código](Arreglos.cpp) que contiene una parte del proyecto ya implementado. En este código ya hemos implementado el funcionamiento del programa en la función _main()_, la cual hace lo siguiente:
+Para llevar a cabo esta implementación tendrás contarás con [este código](Arreglos.cpp) que contiene una parte del proyecto ya implementado. En este código ya hemos implementado el funcionamiento del programa en la función _main()_, la cual hace lo siguiente:
 * Pide al usuario que llene cada elemento del arreglo.
 * Solicita al usuario indicar la operación a realizar (`+` para la suma, `*` para la multiplicación), si el usuario ingresa otro símbolo se repite la pregunta hasta que ingrese una opción válida.
 * Dependiendo de la decisión realiza lo siguiente:
