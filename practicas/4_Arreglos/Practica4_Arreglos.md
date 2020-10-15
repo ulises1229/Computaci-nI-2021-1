@@ -30,6 +30,10 @@ Este código contiene cuatro definiciones de funciones:
 
 **Importante:** como habrás notado, en todas ocasiones se define el tamaño de los arreglos con la *constante global* `LEN`. Este valor está definido en la tercera línea del código que descargaste, y lo que permite es crear una constante (similar a `const`) pero con alcance global, esto quiere decir que todas las funciones de nuestro código tienen acceso a ella. Este valor **NO LO DEBES DE MODIFICAR EN EL CÓDIGO QUE ENTREGARÁS COMO PRÁCTICA**, pero puedes modificarlo cuanto quieras mientras pruebas tu código en tu computadora.
 
+## Implementación
+
+Tu proyecto consistirá en completar las funciones `LlenarArreglo`, `MultiplicarArreglo` y `SumarArreglos` de forma que lleven a cabo el funcionamiento indicado en la descripción de cada una. Estas funciones tienen una sección marcada como `TODO`, misma en la que tendrás que escribir el cóodigo de tu implementación.
+
 ### Ejemplo de funcionamiento
 A continuación se muestra un ejemplo de cómo debería de lucir la ejecución de tu código considerando la operación de suma.
 
