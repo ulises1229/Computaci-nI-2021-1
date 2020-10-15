@@ -19,7 +19,8 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 |--|--|--|--|
 |1.Repository|<ol><li>Git</li><li>GitHub</li><li>MarkDown</li></ol>|<ul><li>[Presentación](practicas/1_repository/RepositoryPresentacion.pdf)</li><li>[Práctica](practicas/1_repository)</li> <li>[Sintaxis Markdown](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) </li></ul>|24/09/20|
 |2.Complejidad|<ol><li>Pseudocódigo</li><li>Complejidad computacional</li></ol>|<ul><li>[Presentación (actualizada)](practicas/2_Complejidad/ComplejidadPresentacion.pdf)</li><li>[Práctica(actualizada)](practicas/2_Complejidad)</li> </ul>|01/10/20|
-|3.Calculadora|<ol><li>Lenguaje C++</li><li>Instrucciones de control (condicionales)</li><li>Operadores aritméticos</li><li>Operadores lógicos</li><li>Estructuras de datos</li></ol>|<ul><li>[Práctica](practicas/3_Calculadora)</li> </ul>|08/10/20||4.Arreglos|<ol><li>Arreglos</li><li>Funciones</li></ol>|<ul><li>[Práctica](practicas/4_Arreglos)</li> </ul>|15/10/20|
+|3.Calculadora|<ol><li>Lenguaje C++</li><li>Instrucciones de control (condicionales)</li><li>Operadores aritméticos</li><li>Operadores lógicos</li><li>Estructuras de datos</li></ol>|<ul><li>[Práctica](practicas/3_Calculadora)</li> </ul>|08/10/20|
+|4.Arreglos|<ol><li>Arreglos</li><li>Funciones</li></ol>|<ul><li>[Práctica](practicas/4_Arreglos)</li> </ul>|15/10/20|
 
 ## Calificaciones
 Puedes encontrar las revisiones de tus práctocas en [este sitio](https://github.com/ulises1229/ComputacionI-2021-1/tree/Grades)
