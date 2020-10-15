@@ -23,7 +23,7 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 |4.Arreglos|<ol><li>Arreglos</li><li>Funciones</li></ol>|<ul><li>[Práctica](practicas/4_Arreglos)</li> </ul>|15/10/20|
 
 ## Calificaciones
-Puedes encontrar las revisiones de tus práctocas en [este sitio](https://github.com/ulises1229/ComputacionI-2021-1/tree/Grades)
+Puedes encontrar las revisiones de tus prácticas en [este sitio](https://github.com/ulises1229/ComputacionI-2021-1/tree/Grades)
 
 
 #### Última modificación: 15 de octubre de 2020
