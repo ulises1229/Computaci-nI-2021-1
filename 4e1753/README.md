@@ -1,7 +1,7 @@
 # Calificaciones: 4e1753
 |Project|Exists|Compiles|CommitHash|CommitDate|CheckDate|Comments|
 |-|-|-|-|-|-|-|
-|Arreglos|❌|❌|NULL|NULL|18-10-2020 21:00:16|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|
-|Calculadora|✔️|❌|d30d1bfd8602429dd007569f46a937ee27d5e210|15-10-2020 11:24:14|15-10-2020 21:23:24|Tu código no compila|
+|Arreglos|❌|❌|NULL|NULL|19-10-2020 21:07:50|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|
+|Calculadora|✔️|✔️|d235b55bade3f45620e680952395fa8bff570d8b|19-10-2020 10:13:42|19-10-2020 21:07:47|NULL|
 
-Última actualización: 18-10-2020 21:00
+Última actualización: 19-10-2020 21:07
