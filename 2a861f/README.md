@@ -1,8 +1,8 @@
 # Calificaciones: 2a861f
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|Grade|CommitHash|CommitDate|CheckDate|DueDate|Comments|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|GaussJordan|❌|❌|NULL|NULL|NULL|NULL|NULL|NULL|NULL|26-10-2020 10:47:18|nan|No se encontró el archivo en PracticasComputacionI/GaussJordan/GaussJordan.cpp|
-|Arreglos|❌|❌|NULL|NULL|NULL|NULL|NULL|NULL|NULL|26-10-2020 10:47:17|nan|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|
-|Calculadora|❌|❌|NULL|NULL|NULL|NULL|NULL|NULL|NULL|26-10-2020 10:47:16|nan|No se encontró el archivo en PracticasComputacionI/Calculadora/Calculadora.cpp|
+|GaussJordan|❌|❌|NULL|NULL|NULL|NULL|NULL|NULL|NULL|26-10-2020 10:59:32|29-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordan/GaussJordan.cpp|
+|Arreglos|❌|❌|NULL|NULL|NULL|NULL|NULL|NULL|NULL|26-10-2020 10:59:31|22-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|
+|Calculadora|❌|❌|NULL|NULL|NULL|NULL|NULL|NULL|NULL|26-10-2020 10:59:29|15-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Calculadora/Calculadora.cpp|
 
-Última actualización: 26-10-2020 10:47
+Última actualización: 26-10-2020 10:59
