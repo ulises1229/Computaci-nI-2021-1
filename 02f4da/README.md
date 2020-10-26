@@ -1,8 +1,8 @@
 # Calificaciones: 02f4da
-|Project|Exists|Compiles|CommitHash|CommitDate|CheckDate|Comments|
-|-|-|-|-|-|-|-|
-|GaussJordan|❌|❌|NULL|NULL|25-10-2020 21:00:41|No se encontró el archivo en PracticasComputacionI/GaussJordan/GaussJordan.cpp|
-|Arreglos|❌|❌|NULL|NULL|25-10-2020 21:00:40|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|
-|Calculadora|❌|❌|NULL|NULL|25-10-2020 21:00:38|No se encontró el archivo en PracticasComputacionI/Calculadora/Calculadora.cpp|
+|Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|Grade|CommitHash|CommitDate|CheckDate|DueDate|Comments|
+|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|GaussJordan|❌|❌|NULL|NULL|NULL|NULL|NULL|NULL|NULL|26-10-2020 10:47:22|nan|No se encontró el archivo en PracticasComputacionI/GaussJordan/GaussJordan.cpp|
+|Arreglos|❌|❌|NULL|NULL|NULL|NULL|NULL|NULL|NULL|26-10-2020 10:47:21|nan|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|
+|Calculadora|❌|❌|NULL|NULL|NULL|NULL|NULL|NULL|NULL|26-10-2020 10:47:19|nan|No se encontró el archivo en PracticasComputacionI/Calculadora/Calculadora.cpp|
 
-Última actualización: 25-10-2020 21:00
+Última actualización: 26-10-2020 10:47

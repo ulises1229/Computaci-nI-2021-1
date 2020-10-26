@@ -1,8 +1,8 @@
 # Calificaciones: 10de5d
-|Project|Exists|Compiles|CommitHash|CommitDate|CheckDate|Comments|
-|-|-|-|-|-|-|-|
-|GaussJordan|❌|❌|NULL|NULL|25-10-2020 21:00:15|No se encontró el archivo en PracticasComputacionI/GaussJordan/GaussJordan.cpp|
-|Arreglos|❌|❌|NULL|NULL|25-10-2020 21:00:13|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|
-|Calculadora|❌|❌|NULL|NULL|25-10-2020 21:00:12|No se encontró el archivo en PracticasComputacionI/Calculadora/Calculadora.cpp|
+|Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|Grade|CommitHash|CommitDate|CheckDate|DueDate|Comments|
+|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|GaussJordan|❌|❌|NULL|NULL|NULL|NULL|NULL|NULL|NULL|26-10-2020 10:46:48|nan|No se encontró el archivo en PracticasComputacionI/GaussJordan/GaussJordan.cpp|
+|Arreglos|❌|❌|NULL|NULL|NULL|NULL|NULL|NULL|NULL|26-10-2020 10:46:47|nan|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|
+|Calculadora|❌|❌|NULL|NULL|NULL|NULL|NULL|NULL|NULL|26-10-2020 10:46:46|nan|No se encontró el archivo en PracticasComputacionI/Calculadora/Calculadora.cpp|
 
-Última actualización: 25-10-2020 21:00
+Última actualización: 26-10-2020 10:46

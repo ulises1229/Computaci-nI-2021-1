@@ -1,8 +1,8 @@
 # Calificaciones: 0adef2
-|Project|Exists|Compiles|CommitHash|CommitDate|CheckDate|Comments|
-|-|-|-|-|-|-|-|
-|GaussJordan|❌|❌|NULL|NULL|25-10-2020 21:01:10|No se encontró el archivo en PracticasComputacionI/GaussJordan/GaussJordan.cpp|
-|Arreglos|✔️|✔️|d48fde09422ed691d900f17891145c03effd2ec8|20-10-2020 00:33:45|20-10-2020 21:03:28|nan|
-|Calculadora|✔️|✔️|d48fde09422ed691d900f17891145c03effd2ec8|20-10-2020 00:33:45|20-10-2020 21:03:26|nan|
+|Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|Grade|CommitHash|CommitDate|CheckDate|DueDate|Comments|
+|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|GaussJordan|❌|❌|NULL|NULL|NULL|NULL|NULL|NULL|NULL|26-10-2020 10:48:08|nan|No se encontró el archivo en PracticasComputacionI/GaussJordan/GaussJordan.cpp|
+|Arreglos|✔️|✔️|nan|nan|nan|nan|nan|d48fde09422ed691d900f17891145c03effd2ec8|20-10-2020 00:33:45|20-10-2020 21:03:28|2020-10-22 21:00:00|nan|
+|Calculadora|✔️|✔️|✔️|✔️|✔️|✔️|10.0|d48fde09422ed691d900f17891145c03effd2ec8|20-10-2020 00:33:45|20-10-2020 21:03:26|2020-10-15 21:00:00|Entrega fuera de tiempo|
 
-Última actualización: 25-10-2020 21:01
+Última actualización: 26-10-2020 10:48
