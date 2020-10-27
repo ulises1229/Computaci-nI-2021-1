@@ -1,8 +1,8 @@
 # Calificaciones: 10de5d
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|Grade|CommitHash|CommitDate|CheckDate|DueDate|Comments|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|GaussJordan|❌|❌|NULL|NULL|NULL|NULL|NULL|NULL|NULL|26-10-2020 11:13:52|29-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordan/GaussJordan.cpp|
-|Arreglos|❌|❌|NULL|NULL|NULL|NULL|NULL|NULL|NULL|26-10-2020 11:13:51|22-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|
-|Calculadora|❌|❌|NULL|NULL|NULL|NULL|NULL|NULL|NULL|26-10-2020 11:13:49|15-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Calculadora/Calculadora.cpp|
+|GaussJordan|❌|❌|NULL|NULL|NULL|NULL|NULL|NULL|NULL|26-10-2020 21:00:11|29-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordan/GaussJordan.cpp|
+|Arreglos|❌|❌|NULL|NULL|NULL|NULL|NULL|NULL|NULL|26-10-2020 21:00:10|22-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|
+|Calculadora|❌|❌|NULL|NULL|NULL|NULL|NULL|NULL|NULL|26-10-2020 21:00:09|15-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Calculadora/Calculadora.cpp|
 
-Última actualización: 26-10-2020 11:13
+Última actualización: 26-10-2020 21:00
