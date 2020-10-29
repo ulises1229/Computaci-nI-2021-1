@@ -23,7 +23,7 @@ El código fuente de la solución de tu práctica (que deberá tener una extensi
 
 **IMPORTANTE**: Tu carpeta puede contener el archivo `Puntos.cpp` con el contenido del archivo fuente que se adjunta en esta práctica, sin embargo este será ignorado para la revisión de tu práctica, de forma que si le haces modificaciones no se verán reflejadas en la revisión final.
 
-En esta carpeta `Puntos` es donde se deberán de encontrar tus archivos `Punto.cpp` y `Punto.h`. Puedes probar que esto sea correcto accediendo a `https://github.com/<TUUSUARIO>/PracticasComputacionI/tree/master/GaussJordan` desde tu navegador, modificando el valor de `<TUUSUARIO>` con tu nombre de usuario de GitHub. Al ingresar a esta URL deberán de aparecer ambos códigos fuente que serán la solución a esta práctica.
+En esta carpeta `Puntos` es donde se deberán de encontrar tus archivos `Punto.cpp` y `Punto.h`. Puedes probar que esto sea correcto accediendo a `https://github.com/<TUUSUARIO>/PracticasComputacionI/tree/master/Puntos` desde tu navegador, modificando el valor de `<TUUSUARIO>` con tu nombre de usuario de GitHub. Al ingresar a esta URL deberán de aparecer ambos códigos fuente que serán la solución a esta práctica.
 
 ## Sitios de interés
 
