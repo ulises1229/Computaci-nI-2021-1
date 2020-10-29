@@ -41,7 +41,7 @@ Puedes agregar tantos atributos a la clase como creas necesario, siempre y cuand
 **IMPORTANTE**: No deberás modificar en absoluto el código en el archivo `Puntos.cpp` ya que éste ya está _totalmente implementado_ y por tanto no será descargado de tu repository, sino que se ocupará el [indicado en esta práctica](Puntos.cpp). Sin embargo es recomendable que lo descargues, para que puedas llevar a cabo las pruebas de forma local. Siéntete libre de agregarlo a la carpeta en tu repository, de estar presente simplemente se va a ignorar cuando se haga la revisión.
 
 ### Ejemplo de funcionamiento
-A continuación se muestran ejemplos del funcionamiento esperado de tu práctica:
+A continuación se muestran ejemplos del funcionamiento esperado de tu práctica.
 
 Para el caso de trasladar el punto, luciría como lo siguiente:
 
