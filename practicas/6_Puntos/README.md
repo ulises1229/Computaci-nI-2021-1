@@ -1,4 +1,4 @@
-# Práctica 6: Puntos
+# Práctica 6: Puntos en un Plano y Transformaciones Geométricas 
 
 ## Fecha de realización: 29/10/2020
 
