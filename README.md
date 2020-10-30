@@ -22,7 +22,7 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 |3.Calculadora|<ol><li>Lenguaje C++</li><li>Instrucciones de control (condicionales)</li><li>Operadores aritméticos</li><li>Operadores lógicos</li><li>Estructuras de datos</li></ol>|<ul><li>[Práctica](practicas/3_Calculadora)</li> </ul>|08/10/20|
 |4.Arreglos|<ol><li>Arreglos</li><li>Funciones</li></ol>|<ul><li>[Práctica](practicas/4_Arreglos)</li> </ul>|15/10/20|
 |5.GaussJordan|<ol><li>Matrices</li><li>Templates</li><li>Funciones (paso de argumentos)</li></ol>|<ul><li>[Práctica](practicas/5_GaussJordan)</li> </ul>|22/10/20|
-|6.Puntos y tansformaciones|<ol><li>Clases en C++</li><li>Archivos _.h_</li></ol>|<ul><li>[Práctica](practicas/6_Puntos)</li></ul>|29/10/20|
+|6.Puntos y tansformaciones|<ol><li>Clases en C++</li><li>Archivos _.h_</li></ol>|<ul><li>[Práctica (modificada)](practicas/6_Puntos)</li></ul>|29/10/20|
 
 ## Calificaciones
 Puedes encontrar las revisiones de tus prácticas en [este sitio](https://github.com/ulises1229/ComputacionI-2021-1/tree/Grades)
