@@ -40,6 +40,9 @@ Puedes agregar tantos atributos a la clase como creas necesario, siempre y cuand
 
 **IMPORTANTE**: No deberás modificar en absoluto el código en el archivo `Puntos.cpp` ya que éste ya está _totalmente implementado_ y por tanto no será descargado de tu repository, sino que se ocupará el [indicado en esta práctica](Puntos.cpp). Sin embargo es recomendable que lo descargues, para que puedas llevar a cabo las pruebas de forma local. Siéntete libre de agregarlo a la carpeta en tu repository, de estar presente simplemente se va a ignorar cuando se haga la revisión.
 
+#### NOTA A CONSIDERAR
+Para que tu práctica funcione de manera correcta vas a necesitar tener tres archivos, los ya mencionados `Punto.h` y `Punto.cpp` que es donde vas a implementar la declaración de la clase `Punto2D` y la implementación de sus métodos repectivamente. El tercer archivo será el que te brindamos `Puntos.cpp` en el cual se tiene toda la estructura del proyecto. De no tener estos tres archivos, tu proyecto no va a funcionar correctamente en tu computadora de forma local. **No es válido copiar y pegar el contenido de `Puntos.cpp` a `Punto.cpp` ya que esto creará conflictos al momento de compilar la práctica debido a que todo estará duplicado en el proyecto, comportamiento no deseado.**
+
 ### Ejemplo de funcionamiento
 A continuación se muestran ejemplos del funcionamiento esperado de tu práctica.
 
