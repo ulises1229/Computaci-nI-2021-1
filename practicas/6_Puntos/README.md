@@ -28,3 +28,4 @@ En esta carpeta `Puntos` es donde se deberán de encontrar tus archivos `Punto.c
 ## Sitios de interés
 
 * [Clases en C++ (en inglés)](http://www.cplusplus.com/doc/tutorial/classes/)
+* [Ejemplo de uso de archivos de encabezado (.h)](http://www.math.uaa.alaska.edu/~afkjm/csce211/handouts/SeparateCompilation.pdf)
