@@ -1,9 +1,9 @@
 # Calificaciones: 2a861f
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|Grade|CommitHash|CommitDate|CheckDate|DueDate|Comments|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Puntos|❌|❌|❌|❌|❌|❌|5.0|nan|nan|31-10-2020 21:08:33|05-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Puntos/Punto.cpp|
-|Arreglos|❌|❌|❌|❌|❌|❌|5.0|nan|nan|31-10-2020 21:08:32|22-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|
-|GaussJordan|❌|❌|❌|❌|❌|❌|5.0|nan|nan|31-10-2020 21:08:32|29-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordan/GaussJordan.cpp|
-|Calculadora|❌|❌|❌|❌|❌|❌|5.0|nan|nan|31-10-2020 21:08:31|15-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Calculadora/Calculadora.cpp|
+|Puntos|❌|❌|❌|❌|❌|❌|5.0|nan|nan|01-11-2020 21:24:46|05-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Puntos/Punto.cpp|
+|GaussJordan|❌|❌|❌|❌|❌|❌|5.0|nan|nan|01-11-2020 21:24:45|29-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordan/GaussJordan.cpp|
+|Arreglos|❌|❌|❌|❌|❌|❌|5.0|nan|nan|01-11-2020 21:24:44|22-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|
+|Calculadora|❌|❌|❌|❌|❌|❌|5.0|nan|nan|01-11-2020 21:24:43|15-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Calculadora/Calculadora.cpp|
 
-Última actualización: 31-10-2020 21:08
+Última actualización: 01-11-2020 21:24
