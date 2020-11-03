@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/OneDrive/OneDrive - UNAM/CÓDIGOS/arreglos/main.cpp
+iostream
+-
+array
+-
+ctime
+-
+cstdlib
+-
+

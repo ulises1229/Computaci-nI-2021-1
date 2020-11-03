@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/OneDrive/OneDrive - UNAM/CÓDIGOS/clases/calificaciones.h
+string
+-
+iostream
+-
+
+/Volumes/OneDrive/OneDrive - UNAM/CÓDIGOS/clases/main.cpp
+iostream
+-
+string
+-
+calificaciones.h
+/Volumes/OneDrive/OneDrive - UNAM/CÓDIGOS/clases/calificaciones.h
+

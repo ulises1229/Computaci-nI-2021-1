@@ -1,0 +1,3 @@
+/Volumes/OneDrive/OneDrive - UNAM/CÓDIGOS/arreglos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/OneDrive/OneDrive - UNAM/CÓDIGOS/arreglos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/OneDrive/OneDrive - UNAM/CÓDIGOS/arreglos/cmake-build-debug/CMakeFiles/arreglos.dir
