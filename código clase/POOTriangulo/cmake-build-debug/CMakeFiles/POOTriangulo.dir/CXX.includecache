@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/OneDrive/OneDrive - UNAM/CÓDIGOS/POOTriangulo/main.cpp
+iostream
+-
+triangulo.h
+/Volumes/OneDrive/OneDrive - UNAM/CÓDIGOS/POOTriangulo/triangulo.h
+
+/Volumes/OneDrive/OneDrive - UNAM/CÓDIGOS/POOTriangulo/triangulo.cpp
+triangulo.h
+/Volumes/OneDrive/OneDrive - UNAM/CÓDIGOS/POOTriangulo/triangulo.h
+
+/Volumes/OneDrive/OneDrive - UNAM/CÓDIGOS/POOTriangulo/triangulo.h
+
