@@ -4,6 +4,6 @@
 |GaussJordan|✔️|✔️|✔️|✔️|✔️|✔️|10.0|602077027dca4c2cee30ea97b8d9fdfe78be8660|29-10-2020 20:39:14|29-10-2020 21:37:48|29-10-2020 21:00:00|///|
 |Arreglos|✔️|✔️|✔️|✔️|✔️|✔️|10.0|b95beff221239287bae0aa14e2721fd135ad4f2b|22-10-2020 17:05:08|27-10-2020 22:27:26|22-10-2020 21:00:00|///|
 |Calculadora|✔️|✔️|✔️|✔️|✔️|✔️|10.0|2dce5efcacb9e273148d66bd3c8fab4d8c9d80e7|12-10-2020 17:31:53|15-10-2020 21:24:36|15-10-2020 21:00:00|nan|
-|Puntos|❌|❌|❌|❌|❌|❌|5.0|nan|nan|02-11-2020 21:01:08|05-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Puntos/Punto.cpp|
+|Puntos|❌|❌|❌|❌|❌|❌|5.0|nan|nan|03-11-2020 21:05:39|05-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Puntos/Punto.cpp|
 
-Última actualización: 02-11-2020 21:01
+Última actualización: 03-11-2020 21:05
