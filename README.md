@@ -12,6 +12,19 @@ Walter André Rosales Reyes
 ## Objetivo
 Dotar al estudiante de habilidades básicas de programación y capacidad de abstracción lógica para la solución de problemas utilizando el lenguaje de programación C++ y Python.   
 
+# Código en Clase
+
+|Tema|Contenido|Código Fuente|
+|--|--|--|
+|1. Variables| Evaluación de polinomio, operadores  |<ul> <li> [Polinomio](code/evalPolinomio) </li> </ul>|
+|2. Condicionales| If ... else, flujos de entrada,  |<ul> <li> [Mayor de dos números](code/condicionalesMayor) </li> </ul>|
+|3. Arreglos|Arreglos unidimensionale, paso de parámetros por referencia, funciones|<ul> <li> [Arreglos](code/arreglos) </li> </ul>|
+|4. Matrices|Arreglos bidimensionales (Matrices), funciones, traza de una matriz| <ul> <li> [Matrices](code/matrices) </li> </ul>|
+|5. Funciones|Funciones, suma de valores, paso de parámetros por valor|<ul> <li> [Funciones](code/funciones) </li> </ul>|
+|6. Templates|Plantillas, funciones|<ul> <li> [templates](code/templates) </li> <li> [Factorial](code/factorial) </li></ul>|
+|7. Sobrecarga de funciones|Sobrecarga, funciones |<ul> <li> [sobrecarga](code/sobrecargaMétodos) </li> </ul>|
+|8. Clases y objetos|Clases, objetos, atributos, métodos, |<ul> <li> [Calificaciones](code/clasesCalificaciones) </li> <li> [Triángulo](code/ClaseTriangulo) </li></ul>|
+
 
 # Prácticas
 
