@@ -5,6 +5,6 @@
 |Arreglos|✔️|✔️|✔️|✔️|✔️|✔️|10.0|c61f6aceb632204ea4f6d1f777c9964d6af5e3e7|19-10-2020 13:54:39|27-10-2020 22:20:20|22-10-2020 21:00:00|///|
 |Calculadora|✔️|✔️|✔️|✔️|✔️|✔️|10.0|a90453cbaf46f194704ec23405ae78de07ead4ca|17-10-2020 10:58:04|17-10-2020 21:00:21|15-10-2020 21:00:00|Entrega fuera de tiempo|
 |Calculadora|✔️|❌|❌|❌|❌|❌|nan|1f68081c41ef254e3bc362377bd3052352625f93|11-10-2020 17:00:33|15-10-2020 21:23:45|15-10-2020 21:00:00|Tu código no compila|
-|Puntos|✔️|❌|❌|❌|❌|❌|5.0|f3d0b52c5839c3320665218abfa4a6d94d8e4f2f|03-11-2020 18:39:38|03-11-2020 21:31:27|05-11-2020 21:00:00|Tu código no compila|
+|Puntos|✔️|✔️|✔️|❌|✔️|❌|8.666666666666668|0418463b005621ba8976373aaa0fa74f8109b5d8|04-11-2020 11:14:57|04-11-2020 21:02:19|05-11-2020 21:00:00|/No aplica correctamente la rotación//No hace correctamente la rotación con ángulos negativos|
 
-Última actualización: 03-11-2020 21:31
+Última actualización: 04-11-2020 21:02
