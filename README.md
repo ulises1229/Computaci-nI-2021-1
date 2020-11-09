@@ -21,8 +21,8 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 |3. Arreglos|Arreglos unidimensionale, paso de parámetros por referencia, funciones|<ul> <li> [Arreglos](code/arreglos) </li> </ul>|
 |4. Matrices|Arreglos bidimensionales (Matrices), funciones, traza de una matriz| <ul> <li> [Matrices](code/matrices) </li> </ul>|
 |5. Funciones|Funciones, suma de valores, paso de parámetros por valor|<ul> <li> [Funciones](code/funciones) </li> </ul>|
-|6. Templates|Plantillas, funciones|<ul> <li> [templates](code/templates) </li> <li> [Factorial](code/factorial) </li></ul>|
-|7. Sobrecarga de funciones|Sobrecarga, funciones |<ul> <li> [sobrecarga](code/sobrecargaMétodos) </li> </ul>|
+|6. Templates|Plantillas, funciones|<ul> <li> [Templates](code/templates) </li> <li> [Factorial](code/factorial) </li></ul>|
+|7. Sobrecarga de funciones|Sobrecarga, funciones |<ul> <li> [Sobrecarga de métodos](code/sobrecargaMétodos) </li> </ul>|
 |8. Clases y objetos|Clases, objetos, atributos, métodos, |<ul> <li> [Calificaciones](code/clasesCalificaciones) </li> <li> [Triángulo](code/ClaseTriangulo) </li><li> [Gauss](code/GaussJordan) </li></ul>|
 
 
