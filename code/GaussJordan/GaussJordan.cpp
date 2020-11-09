@@ -20,7 +20,7 @@ GaussJordan::GaussJordan(float m[][4] , const int f, const int c) {
 int GaussJordan::buscarPivote(int col){
     int indiceFila = -1;
     // Valor mínimo para un flotante en en C++
-    float maxNum = numeric_limits<float>::min();
+    float maxNum = numeric_limits<float>::max() * -1;
     for(int i = col + 1; i < filas; i++){
         if(M[i][col] > maxNum && M[i][col] != 0){
             indiceFila = i;
