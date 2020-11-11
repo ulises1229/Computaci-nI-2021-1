@@ -36,6 +36,7 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 |4.Arreglos|<ol><li>Arreglos</li><li>Funciones</li></ol>|<ul><li>[Práctica](practicas/4_Arreglos)</li> </ul>|15/10/20|
 |5.GaussJordan|<ol><li>Matrices</li><li>Templates</li><li>Funciones (paso de argumentos)</li></ol>|<ul><li>[Práctica](practicas/5_GaussJordan)</li> </ul>|22/10/20|
 |6.Puntos y tansformaciones|<ol><li>Clases en C++</li><li>Archivos _.h_</li></ol>|<ul><li>[Práctica (modificada)](practicas/6_Puntos)</li></ul>|29/10/20|
+|7.CargaElectrica|<ol><li>programación orientada a objetos</li><li>Constructor y destructor en C++</li></ol>|<ul><li>[Práctica](practicas/7_CargaElectrica)</li></ul>|12/11/20|
 
 ## Calificaciones
 Puedes encontrar las revisiones de tus prácticas en [este sitio](https://github.com/ulises1229/ComputacionI-2021-1/tree/Grades)
