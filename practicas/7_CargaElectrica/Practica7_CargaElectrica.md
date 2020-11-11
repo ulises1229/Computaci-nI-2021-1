@@ -2,9 +2,9 @@
 
 ## Descripción
 
-En esta práctica vamos a llevar a programar un proceso común en clases de bioquímica: el cálculo de la carga neta de una molécula (principalmente aminoácidos y/o péptidos).
+En esta práctica vamos a llevar a programar un proceso común en clases de bioquímica: el cálculo de la carga neta de una molécula (principalmente aminoácidos y/o péptidos) haciendo uso de la ecuación de Henderson–Hasselbalch. Puedes indagar un poco más en el tema en [Wikipedia (en inglés)](https://en.wikipedia.org/wiki/Henderson%E2%80%93Hasselbalch_equation) y en [Wikipedia (en español)](https://es.wikipedia.org/wiki/Ecuaci%C3%B3n_de_Henderson-Hasselbalch) ambos sitios son complementarios, no contienen la misma información, vale la pena revisar ambos. También puedes revisar [esta presentación](CargaElectricaPresentacion.pdf) que preparamos para tí.
 
-Para llevarla a cabo hemos puesto a tu disposición [este código](CargaElectrica.cpp) que contiene el esquema básico del funcionamiento de la práctica. En él, la función _main()_ realiza lo siguiente:
+Para llevar a cabo la práctica hemos puesto a tu disposición [este código](CargaElectrica.cpp) que contiene el esquema básico del funcionamiento de la práctica. En él, la función _main()_ realiza lo siguiente:
 * Define el número de grupos `numGrupos` con los que va a contar la molécula.
 * Solicita al usuario un nombre para la molécula
 * Crea e inicializa un arreglo de variables del tipo `Grupo` de tamaño `numGrupos` que corresponde a los grupos de la molécula.

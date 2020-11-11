@@ -12,6 +12,10 @@
 
 [CargaElectrica.cpp](CargaElectrica.cpp) contiene el código inicial para tu práctica. No trabajarás sobre este código, pero sí vas a necesitarlo para poder probar el funcionamiento esperado de tu programa, por tanto te recomendamos descargarlo o copiarlo y pegarlo en un archivo con el mismo nombre dentro de la carpeta donde vayas a relizar tu práctica.
 
+[CargaElectricaPresentacion.pdf](CargaElectricaPresentacion.pdf) es la presentación utilizada durante la práctica para explicar el concepto de carga neta de una molécula dependiendo de sus grupos y un pH.
+
+[EjemploAlumnos](EjemploAlumnos) contiene el código fuente ocupado durante la presentación para ilustrar el uso de constructores y su _sobrecarga_ en clases en C++.
+
 ## Pre-requisitos
 
 **IMPORTANTE**: deberás de cumplir con las siguientes indicaciones, de forma contraria podría haber problemas con la revisión de tu práctica.
