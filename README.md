@@ -24,6 +24,7 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 |6. Templates|Plantillas, funciones|<ul> <li> [Templates](code/templates) </li> <li> [Factorial](code/factorial) </li></ul>|
 |7. Sobrecarga de funciones|Sobrecarga, funciones |<ul> <li> [Sobrecarga de métodos](code/sobrecargaMétodos) </li> </ul>|
 |8. Clases y objetos|Clases, objetos, atributos, métodos, |<ul> <li> [Calificaciones](code/clasesCalificaciones) </li> <li> [Triángulo](code/ClaseTriangulo) </li><li> [Gauss](code/GaussJordan) </li></ul>|
+|9. Vectores |Clases, objetos, atributos, métodos, |<ul> <li> [Vectores std](code/vectorStd) </li> </ul>|
 
 
 # Prácticas
