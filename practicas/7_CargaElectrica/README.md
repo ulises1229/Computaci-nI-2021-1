@@ -1,6 +1,6 @@
 # Práctica 7: Carga eléctrica de una molécula
 
-## Fecha de realización: 12/11/2020
+## Fecha: 12/11/2020
 
 ## Temas
 * Programación orientada a objetos
