@@ -14,7 +14,7 @@
 
 [CargaElectricaPresentacion.pdf](CargaElectricaPresentacion.pdf) es la presentación utilizada durante la práctica para explicar el concepto de carga neta de una molécula dependiendo de sus grupos y un pH.
 
-[EjemploAlumnos](EjemploAlumnos) contiene el código fuente ocupado durante la presentación para ilustrar el uso de constructores y su _sobrecarga_ en clases en C++.
+[EjemploAlumnos](EjemploAlumnos) contiene el código fuente utilizado durante la presentación para ilustrar el uso de constructores y su _sobrecarga_ en clases en C++.
 
 ## Pre-requisitos
 
