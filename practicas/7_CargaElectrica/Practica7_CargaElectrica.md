@@ -55,7 +55,7 @@ Carga del grupo Amino a pH mayor a 9.06: 0
 Nombre grupo 2: R
 pK del grupo R: 10.54
 Carga del grupo R a pH mayor a 10.54: 0
-pH de la solución(buffer): 8.4
+pH de la solucion (buffer): 8.4
 Carga de la molecula = 1
 
 ```
