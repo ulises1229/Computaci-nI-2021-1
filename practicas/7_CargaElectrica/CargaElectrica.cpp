@@ -62,7 +62,7 @@ Grupo CrearGrupo(int i)
 // Solicita al usuario el valor de pH
 void PedirpH(float& ph)
 {
-    cout << "pH de la molecula: ";
+    cout << "pH de la solucion (buffer): ";
     cin >> ph;
 }
 
