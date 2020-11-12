@@ -18,12 +18,12 @@ int main() {
     enteros1.push_back(1);
     enteros1.push_back(2);
 
-    for(int i = 0; 9000; i++){
+    /*for(int i = 0; 9000; i++){
         enteros1.push_back(i);
-    }
+    }*/
 
 
-    /*enteros1.insert(enteros1.begin()+1,3,4);
+    enteros1.insert(enteros1.begin()+1,3,4);
 
     imprimirVector(enteros1);
 
