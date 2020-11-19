@@ -23,8 +23,8 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 |5. Funciones|Funciones, suma de valores, paso de parámetros por valor|<ul> <li> [Funciones](code/funciones) </li> </ul>|
 |6. Templates|Plantillas, funciones|<ul> <li> [Templates](code/templates) </li> <li> [Factorial](code/factorial) </li></ul>|
 |7. Sobrecarga de funciones|Sobrecarga, funciones |<ul> <li> [Sobrecarga de métodos](code/sobrecargaMétodos) </li> </ul>|
-|8. Clases y objetos|Clases, objetos, atributos, métodos, |<ul> <li> [Calificaciones](code/clasesCalificaciones) </li> <li> [Triángulo](code/ClaseTriangulo) </li><li> [Gauss](code/GaussJordan) </li></ul>|
-|9. Vectores |Clases, objetos, atributos, métodos, |<ul> <li> [Vectores std](code/vectorStd) </li> </ul>|
+|8. Clases y objetos|Clases, objetos, atributos, métodos |<ul> <li> [Calificaciones](code/clasesCalificaciones) </li> <li> [Triángulo](code/ClaseTriangulo) </li><li> [Gauss](code/GaussJordan) </li></ul>|
+|9. Vectores |POO, vectores |<ul> <li> [Vectores std](code/vectorStd) </li> </ul>|
 
 
 # Prácticas
@@ -43,4 +43,4 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 Puedes encontrar las revisiones de tus prácticas en [este sitio](https://github.com/ulises1229/ComputacionI-2021-1/tree/Grades)
 
 
-#### Última modificación: 18 de noviembre de 2020
+#### Última modificación: 19 de noviembre de 2020
