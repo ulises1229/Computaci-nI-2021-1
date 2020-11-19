@@ -3,27 +3,28 @@
 #include <string>
 
 #include "Alumno.h"
+#include "Materia.h"
 
 using namespace std;
 
 Alumno CrearAlumno(int i, string materia);
 
-template <typename alumnos>
-float CalificacionPromedio(alumnos todosAlumnos);
-
 int main ()
 {
-  const int numAlumnos = 3;
   string nombreMateria;
-  array <Alumno, numAlumnos> todosAlumnos;
-
   cout << "Nombre de la materia: ";
   cin >> nombreMateria;
 
-  for (int i = 0; i < numAlumnos; i++)
-    todosAlumnos[i] = CrearAlumno(i, nombreMateria);
+  Materia miMateria(nombreMateria);
 
-  cout << "La califiacion promedio en " << nombreMateria << " es de: " << CalificacionPromedio(todosAlumnos) << endl;
+  int numAlumnos;
+  cout << "Numero alumnos: ";
+  cin >> numAlumnos;
+
+  for (int i = 0; i < numAlumnos; i++)
+    miMateria.AgregarAlumno(CrearAlumno(i, nombreMateria));
+
+  cout << "El numero de alumnos aprobados en " << nombreMateria << " es = " <<  miMateria.NumeroAlumnosAprobados() << endl;
 
   return 0;
 }
@@ -39,14 +40,4 @@ Alumno CrearAlumno(int i, string materia)
   cin >> calificacion;
   Alumno miAlumno(nombre, calificacion);
   return miAlumno;
-}
-
-template <typename alumnos>
-float CalificacionPromedio(alumnos todosAlumnos)
-{
-  int numAlumnos = todosAlumnos.size();
-  float calificacion = 0;
-  for (int i = 0; i < numAlumnos; i++)
-    calificacion += todosAlumnos[i].GetCalificacion();
-  return calificacion / numAlumnos;
 }
