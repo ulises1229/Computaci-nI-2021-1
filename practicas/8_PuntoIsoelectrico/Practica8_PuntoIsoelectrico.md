@@ -2,9 +2,9 @@
 
 ## Descripción
 
-En esta práctica vamos a dar uso a lo creado en la práctica anterior (Practica7_CargaElectrica)[https://github.com/ulises1229/ComputacionI-2021-1/tree/master/practicas/7_CargaElectrica]. Un uso directo del cálculo d ela carga neta de una molécula a un cierto pH es para el cálculo de su punto isoeléctrico (generalmente denotado por _pI_). Este valor es aquel pH en el cual la molécula tiene una carga neutra, es decir carga cero. Puedes consultar más sobre el punto isoeléctrico en (este sitio)[http://www.ehu.eus/biomoleculas/buffers/buffer3.htm] y si quieres consultar ejemplos e incluso ejercicios puedes ver (este otro sitio)[http://biomodel.uah.es/tecnicas/carga/calculo_pI.htm].
+En esta práctica vamos a dar uso a lo creado en la práctica anterior [Practica7_CargaElectrica](https://github.com/ulises1229/ComputacionI-2021-1/tree/master/practicas/7_CargaElectrica). Un uso directo del cálculo d ela carga neta de una molécula a un cierto pH es para el cálculo de su punto isoeléctrico (generalmente denotado por _pI_). Este valor es aquel pH en el cual la molécula tiene una carga neutra, es decir carga cero. Puedes consultar más sobre el punto isoeléctrico en [este sitio](http://www.ehu.eus/biomoleculas/buffers/buffer3.htm) y si quieres consultar ejemplos e incluso ejercicios puedes ver [este otro sitio](http://biomodel.uah.es/tecnicas/carga/calculo_pI.htm).
 
-De nueva cuenta hemos puesto a tu disposición (el siguiente código)[PuntoIsoelectrico.cpp] con el esquema principal de esta práctica. En él, la función _main()_ realiza lo siguiente:
+De nueva cuenta hemos puesto a tu disposición [el siguiente código](PuntoIsoelectrico.cpp) con el esquema principal de esta práctica. En él, la función _main()_ realiza lo siguiente:
 * Importa las librerías necesarias, así como las dos clases que vas a implementar.
 * Pide al usuario el nombre de la molécula `nombreMolecula` y el número de grupos `numGrupos` con los que cuenta esta molécula.
 * Crea e inicializa el número `numGrupos` de instancias del tipo `Grupo` con los datos ingresados por el usuario y los agrega molécula.
@@ -51,4 +51,4 @@ Este problema deriva de los resultados del siguiente ejemplo:
 ![Ejemplo Carga Lisina](CargaLisina.png)
 
 
-tomado de la (siguiente referencia)[http://biomodel.uah.es/tecnicas/carga/calculo_pI.htm]
+tomado de la [siguiente referencia](http://biomodel.uah.es/tecnicas/carga/calculo_pI.htm)
