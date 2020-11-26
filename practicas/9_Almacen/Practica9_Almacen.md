@@ -17,7 +17,7 @@ Este archivo `.h` contiene la declaración de la clase `Bodega`, la cual contien
 De igual forma tiene la delaración de tres métodos públicos:
 * `string ObtenerNombre()` que regresa el nombre de la bodega.
 * `bool AgregarArticulo(string* artPtr)` que tiene como objetivo agregar el artículo indicado a la bodega. Para ello recibe como parámetro el apuntador del artículo que se desea agregar, checa si no existe en los artículos ya guardados, en caso de existir regresa `false`, de forma contrario lo agrega al final del vector de artículos y regresa `true`.
-* `string ObtenerInventario()` regresa un `string` con la descripción del inventario de la bodega, donde indica los artículos contenidos en ella con la frase `Articulo <i> es <nombreBodega>` donde `<i>` es el número de artículo y `<nombreArticulo>` es el nombre (`string`) del artículo i-ésimo almacenado en esa bodega.
+* `string ObtenerInventario()` regresa un `string` con la descripción del inventario de la bodega, donde indica los artículos contenidos en ella con la frase `Articulo <i> es <nombreArticulo>` donde `<i>` es el número de artículo y `<nombreArticulo>` es el nombre (`string`) del artículo i-ésimo almacenado en esa bodega.
 
 ### `Bodega.cpp`
 Este archivo contiene las implementaciones de los métodos de la clase `Bodega` declaradas en el archivo `Bodega.h`.
