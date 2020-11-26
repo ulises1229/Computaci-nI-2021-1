@@ -82,4 +82,4 @@ Articulo 1 es iPad
 
 ```
 
-¡Nota que en ejemplo se ha añadido en ambas bodegas (`MX` y `USA`) el mismo artículo `Celular`! Esto lo hemos logrado a través de guardar su dirección de memoria, no una copia del objeto, ¡tal y como _don Neilt_ nos pidió para poder distribuir un mismo artículo en diferentes bodegas!
+¡Nota que en ejemplo se ha añadido en ambas bodegas (`MX` y `USA`) el mismo artículo `Celular`! Esto lo hemos logrado a través de guardar su dirección de memoria, no una copia del objeto, ¡Tal y como _don Neilt_ nos pidió para poder distribuir un mismo artículo en diferentes bodegas!
