@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Para esta práctica vamos a visitar a _don Neilt_ quien acaba de hacer crecer su negocio y compró un almacén donde busca guardar sus productos en las diferentes bodegas. Para ello nos ha pedido que le diseñemos un sistema que le permita inventariar sus diferentes artículos en las correspondientes bodegas y que al final le informe qué productos fueron agregados a qué bodegas. Para lograrlo ya nos ha pasado una parte del código que un _tecnólogo_ le comenzó a desarrollar pero que no pudo culminar por otras situaciones.
+Para esta práctica vamos a visitar a _don Neilt_ quien acaba de hacer crecer su negocio y compró un almacén donde busca guardar sus productos en las diferentes bodegas. Para ello nos ha pedido que le diseñemos un sistema que le permita inventariar sus diferentes artículos en las correspondientes bodegas y que al final le informe qué productos fueron agregados a qué bodegas. Para lograrlo ya nos ha pasado una parte del código que un _tecnólogo_ le comenzó a desarrollar, pero que no pudo culminar por otras situaciones.
 
 
 El código que nos ofreció _don Neilt_ lo hemos colocado en la carpeta [Almacen](Almacen) y contiene tres archivos:
