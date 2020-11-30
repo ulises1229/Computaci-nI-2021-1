@@ -1,12 +1,12 @@
 # Calificaciones: 02f4da
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|Grade|CommitHash|CommitDate|CheckDate|DueDate|Comments|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Almacen|❌|❌|❌|❌|❌|❌|5.0|nan|nan|28-11-2020 21:01:11|04-12-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Almacen/Almacen.cpp|
-|PuntoIsoelectrico|❌|❌|❌|❌|❌|❌|5.0|nan|nan|28-11-2020 21:01:10|26-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/PuntoIsoelectrico/Grupo.cpp|
-|CargaElectrica|❌|❌|❌|❌|❌|❌|5.0|nan|nan|28-11-2020 21:01:09|19-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/CargaElectrica/CargaElectrica.cpp|
-|Puntos|❌|❌|❌|❌|❌|❌|5.0|nan|nan|28-11-2020 21:01:08|05-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Puntos/Punto.cpp|
-|GaussJordan|❌|❌|❌|❌|❌|❌|5.0|nan|nan|28-11-2020 21:01:06|19-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordan/GaussJordan.cpp|
-|Arreglos|❌|❌|❌|❌|❌|❌|5.0|nan|nan|28-11-2020 21:01:05|22-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|
-|Calculadora|❌|❌|❌|❌|❌|❌|5.0|nan|nan|28-11-2020 21:01:04|15-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Calculadora/Calculadora.cpp|
+|Almacen|❌|❌|❌|❌|❌|❌|5.0|nan|nan|29-11-2020 21:01:36|04-12-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Almacen/Almacen.cpp|
+|PuntoIsoelectrico|❌|❌|❌|❌|❌|❌|5.0|nan|nan|29-11-2020 21:01:35|26-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/PuntoIsoelectrico/Grupo.cpp|
+|CargaElectrica|❌|❌|❌|❌|❌|❌|5.0|nan|nan|29-11-2020 21:01:34|19-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/CargaElectrica/CargaElectrica.cpp|
+|Puntos|❌|❌|❌|❌|❌|❌|5.0|nan|nan|29-11-2020 21:01:33|05-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Puntos/Punto.cpp|
+|GaussJordan|❌|❌|❌|❌|❌|❌|5.0|nan|nan|29-11-2020 21:01:32|19-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordan/GaussJordan.cpp|
+|Arreglos|❌|❌|❌|❌|❌|❌|5.0|nan|nan|29-11-2020 21:01:31|22-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|
+|Calculadora|❌|❌|❌|❌|❌|❌|5.0|nan|nan|29-11-2020 21:01:30|15-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Calculadora/Calculadora.cpp|
 
-Última actualización: 28-11-2020 21:01
+Última actualización: 29-11-2020 21:01

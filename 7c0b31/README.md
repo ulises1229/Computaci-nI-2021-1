@@ -1,8 +1,8 @@
 # Calificaciones: 7c0b31
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|Grade|CommitHash|CommitDate|CheckDate|DueDate|Comments|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
+|Almacen|✔️|❌|❌|❌|❌|❌|5.0|30b802e86544ff3512785efd0e85b3009920a866|29-11-2020 20:37:27|29-11-2020 21:01:00|04-12-2020 21:00:00|Tu código no compila|
 |GaussJordan|✔️|✔️|✔️|✔️|❌|✔️|10.0|177e496adc48aa5dfdae0e77ab37780c0103f068|29-10-2020 20:30:13|29-10-2020 21:31:12|29-10-2020 21:00:00|//No avisa al usuario que el sistema no tiene solución/|
-|Almacen|❌|❌|❌|❌|❌|❌|5.0|nan|nan|28-11-2020 21:00:49|04-12-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Almacen/Almacen.cpp|
 |Arreglos|✔️|✔️|✔️|✔️|✔️|✔️|10.0|c61f6aceb632204ea4f6d1f777c9964d6af5e3e7|19-10-2020 13:54:39|27-10-2020 22:20:20|22-10-2020 21:00:00|///|
 |PuntoIsoelectrico|✔️|✔️|❌|❌|❌|❌|6.0|225c7242f3fc66946faf366563e01cf9cdd209bd|26-11-2020 20:38:42|26-11-2020 21:02:44|26-11-2020 21:00:00|No evalúa correctamente el punto isoeléctrico de la molécula/No evalúa correctamente el punto isoeléctrico de la molécula/No evalúa correctamente el punto isoeléctrico de la molécula/No evalúa correctamente el punto isoeléctrico si los pkas de los grupos no se dan en orden ascendente|
 |CargaElectrica|✔️|✔️|✔️|✔️|✔️|❌|10.0|5eec44c3c84bba2dd5d00e4627d35bf8074f8838|19-11-2020 15:28:37|19-11-2020 21:03:01|19-11-2020 21:00:00|///No calcula correctamente la carga de la molécula|
@@ -10,4 +10,4 @@
 |Calculadora|✔️|❌|❌|❌|❌|❌|nan|1f68081c41ef254e3bc362377bd3052352625f93|11-10-2020 17:00:33|15-10-2020 21:23:45|15-10-2020 21:00:00|Tu código no compila|
 |Puntos|✔️|✔️|✔️|✔️|✔️|✔️|10.0|582782b9f7f0c647db623e075120badc363ce313|05-11-2020 15:41:19|05-11-2020 21:00:59|05-11-2020 21:00:00|///|
 
-Última actualización: 28-11-2020 21:00
+Última actualización: 29-11-2020 21:01
