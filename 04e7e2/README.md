@@ -1,12 +1,12 @@
 # Calificaciones: 04e7e2
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|Grade|CommitHash|CommitDate|CheckDate|DueDate|Comments|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Almacen|❌|❌|❌|❌|❌|❌|5.0|nan|nan|29-11-2020 21:01:50|04-12-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Almacen/Almacen.cpp|
-|PuntoIsoelectrico|❌|❌|❌|❌|❌|❌|5.0|nan|nan|29-11-2020 21:01:49|26-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/PuntoIsoelectrico/Grupo.cpp|
-|CargaElectrica|❌|❌|❌|❌|❌|❌|5.0|nan|nan|29-11-2020 21:01:48|19-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/CargaElectrica/CargaElectrica.cpp|
-|Puntos|❌|❌|❌|❌|❌|❌|5.0|nan|nan|29-11-2020 21:01:47|05-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Puntos/Punto.cpp|
-|GaussJordan|❌|❌|❌|❌|❌|❌|5.0|nan|nan|29-11-2020 21:01:46|19-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordan/GaussJordan.cpp|
-|Arreglos|❌|❌|❌|❌|❌|❌|5.0|nan|nan|29-11-2020 21:01:45|22-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|
+|Almacen|❌|❌|❌|❌|❌|❌|5.0|nan|nan|30-11-2020 21:14:07|04-12-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Almacen/Almacen.cpp|
+|PuntoIsoelectrico|❌|❌|❌|❌|❌|❌|5.0|nan|nan|30-11-2020 21:14:05|26-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/PuntoIsoelectrico/Grupo.cpp|
+|CargaElectrica|❌|❌|❌|❌|❌|❌|5.0|nan|nan|30-11-2020 21:14:04|19-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/CargaElectrica/CargaElectrica.cpp|
+|GaussJordan|❌|❌|❌|❌|❌|❌|5.0|nan|nan|30-11-2020 21:14:03|19-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordan/GaussJordan.cpp|
+|Puntos|❌|❌|❌|❌|❌|❌|5.0|nan|nan|30-11-2020 21:14:03|05-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Puntos/Punto.cpp|
+|Arreglos|❌|❌|❌|❌|❌|❌|5.0|nan|nan|30-11-2020 21:14:02|22-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|
 |Calculadora|✔️|✔️|✔️|✔️|✔️|❌|10.0|8f3759d3941afe92f7b5bf62ba6440d44ef454cf|14-10-2020 23:12:07|15-10-2020 21:24:12|15-10-2020 21:00:00|No evita la división entre cero|
 
-Última actualización: 29-11-2020 21:01
+Última actualización: 30-11-2020 21:14
