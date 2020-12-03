@@ -11,17 +11,16 @@ Este archivo `.h` contiene la declaración de la clase `Almacen`, la cual contie
 * `string nombre` que corresponde al nombre de la bodega (ingresado por el usuario).
 * `vector<ArticuloAlmacenado> articulos` es un vector que guardará todos los artículos almacenados en esa bodega.
 Cuenta también con su constructor:
-* `Almacen(string nom) { nombre = nom; }` que incializa el almacen con el nombre pasado como argumento al constructor.
+* `Almacen(string nom) : nombre(nom) { }` que incializa el almacen con el nombre pasado como argumento al constructor.
 De igual forma tiene la delaración de tres métodos públicos:
 * `void AgregarArticulo(Articulo* artPtr, int cantidad)` que modifica la cantidad del artículo pasado con el apuntador, o si no existe en `articulos` lo agrega y añade su cantidad.
 * `void ModificarInventarioArticulo(int ID, int cantidad)` que modifica la cantidad del artículo con el índice `ID` en el vector `articulos`.
 * `int ObtenerIDArticulo(Articulo* artPtr) const` que es un método constante que nos regresará el índice del artículo almacenado en el vector `articulos`, si no lo encuenta regresa `-1`.
-* `string ObtenerNombre()` que regresa el nombre de la bodega.
-* `bool AgregarArticulo(string* artPtr)` que tiene como objetivo agregar el artículo indicado a la bodega. Para ello recibe como parámetro el apuntador del artículo que se desea agregar, checa si no existe en los artículos ya guardados, en caso de existir regresa `false`, de forma contrario lo agrega al final del vector de artículos y regresa `true`.
 * `string ObtenerInventario()` regresa un `string` con la descripción del inventario del almacén, donde indica los artículos contenidos en ella con la frase `<nombreArticulo> <cantidad>` donde `<nombreArticulo>` es el nombre (`string`) del artículo i-ésimo almacenado, y `<cantidad>` es la cantidad almacenada.
+* `string ObtenerNombre()` que regresa el nombre del almacen.
 
 ### `Almacen.cpp`
-Este archivo contiene las implementaciones de los métodos de la clase `Almacen` declaradas en el archivo `Almacen.h`.
+Este archivo deberá contener las implementaciones de los métodos de la clase `Almacen` declaradas en el archivo `Almacen.h`.
 
 ### `Tienda.cpp`
 Este código contiene la estructura principal del programa. En él ya se cuenta con una parte del código implementado. En particular cuenta con la siguiente estructura:
@@ -33,7 +32,7 @@ Este código contiene la estructura principal del programa. En él ya se cuenta 
 * Imprime el inventario de cada almacen.
 
 ## Implementación
-En esta práctica tendrás que llevar a cabo la implementación de los métodos de la clase `Almacen` en el archivo `Almacen.cpp`.
+En esta práctica tendrás que llevar a cabo la implementación de todos los métodos de la clase `Almacen` en el archivo `Almacen.cpp`.
 
 #### NOTA A CONSIDERAR
 Para que tu práctica funcione de manera correcta, **únicamente** ocuparás los tres archivos que te hemos proporcionado: `Tienda.cpp`, `Almacen.h` y `Almacen.cpp`. Estos tres archivos tendrán que encontrarse en tu carpeta para que todo funcione de la forma correcta.
