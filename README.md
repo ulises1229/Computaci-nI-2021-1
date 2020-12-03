@@ -40,6 +40,7 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 |7.Carga Eléctrica|<ol><li>Programación orientada a objetos</li><li>Constructor y destructor en C++</li></ol>|<ul><li>[Presentación](practicas/7_CargaElectrica/CargaElectricaPresentacion.pdf)</li><li>[Ejemplo "Alumnos"](practicas/7_CargaElectrica/EjemploAlumnos)</li><li>[Práctica](practicas/7_CargaElectrica)</li></ul>|12/11/20|
 |8.Punto Isoeléctrico|<ol><li>Programación orientada a objetos</li><li>Vectores en C++</li></ol>|<ul><li>[Presentación](practicas/8_PuntoIsoelectrico/PuntoIsoelectricoPresentacion.pdf)</li><li>[Ejemplo "Alumnos"](practicas/8_PuntoIsoelectrico/EjemploAlumnos)</li><li>[Práctica](practicas/8_PuntoIsoelectrico)</li></ul>|19/11/20|
 |9.Almacén|<ol><li>Apuntadores en C++</li></ol>|<ul><li>[Ejemplo "Alumnos"](practicas/9_Almacen/EjemploAlumnos)</li><li>[Práctica](practicas/9_Almacen)</li></ul>|26/11/20|
+|10.Tienda|<ol><li>Estructuras de datos en C++</li></ol>|<ul><li>[Práctica](practicas/10_Tienda)</li></ul>|03/12/20|
 
 ## Calificaciones
 Puedes encontrar las revisiones de tus prácticas en [este sitio](https://github.com/ulises1229/ComputacionI-2021-1/tree/Grades)
