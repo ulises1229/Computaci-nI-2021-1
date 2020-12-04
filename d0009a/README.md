@@ -7,6 +7,6 @@
 |CargaElectrica|✔️|✔️|✔️|✔️|❌|❌|5.666666666666668|facb5f0ebea8f37eb9b741237d75466aa0c2c633|26-11-2020 18:44:45|26-11-2020 21:06:06|19-11-2020 21:00:00|//No calcula correctamente la carga de la molécula/No calcula correctamente la carga de la molécula|
 |Puntos|✔️|✔️|✔️|✔️|✔️|✔️|10.0|17adc55a17248a0b88c077fbaa35e464dc99081d|17-11-2020 12:55:08|17-11-2020 21:01:05|05-11-2020 21:00:00|///|
 |Calculadora|✔️|✔️|✔️|✔️|✔️|✔️|10.0|d5d4cfdfef007f180bdb90a426eb4d8e0317bca3|13-10-2020 12:54:58|15-10-2020 21:24:21|15-10-2020 21:00:00|nan|
-|Almacen|❌|❌|❌|❌|❌|❌|5.0|nan|nan|02-12-2020 21:02:57|04-12-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Almacen/Almacen.cpp|
+|Almacen|❌|❌|❌|❌|❌|❌|5.0|nan|nan|03-12-2020 21:02:43|04-12-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Almacen/Almacen.cpp|
 
-Última actualización: 02-12-2020 21:02
+Última actualización: 03-12-2020 21:02
