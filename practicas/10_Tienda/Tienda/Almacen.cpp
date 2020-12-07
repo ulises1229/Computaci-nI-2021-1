@@ -5,6 +5,11 @@ bool Almacen::ModificarInventarioArticulo(Articulo* artPtr, int cantidad)
 		// TODO
 }
 
+string ObtenerNombre() const
+{
+	return nombre;
+}
+
 string Almacen::ObtenerInventario() const
 {
 	string invStr = "";
