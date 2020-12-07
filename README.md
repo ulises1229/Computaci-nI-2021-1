@@ -42,6 +42,7 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 |9.Almacén|<ol><li>Apuntadores en C++</li></ol>|<ul><li>[Ejemplo "Alumnos"](practicas/9_Almacen/EjemploAlumnos)</li><li>[Práctica](practicas/9_Almacen)</li></ul>|26/11/20|
 |10.Tienda|<ol><li>Estructuras de datos en C++</li></ol>|<ul><li>[~Práctica~(suspendida)](practicas/10_TiendaOld)</li><li>[Práctica](practicas/10_Tienda)</li></ul>|03/12/20|
 
+
 ## Calificaciones
 Puedes encontrar las revisiones de tus prácticas en [este sitio](https://github.com/ulises1229/ComputacionI-2021-1/tree/Grades)
 
