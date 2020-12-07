@@ -1,6 +1,8 @@
 # Práctica 10: Tienda
 
-## Fecha: 07/12/2020
+# NOTA: Esta práctica fue suspendida. Por favor si quieres trabajar su tu práctica 10 del curso dirígete a [esta carpeta](https://github.com/ulises1229/ComputacionI-2021-1/tree/master/practicas/10_Tienda)
+
+## Fecha: 03/12/2020
 
 ## Temas
 * Estructuras de datos en C++
@@ -17,9 +19,9 @@
 
 El código fuente de la solución de tu práctica (que deberá tener una extensión .cpp) deberá de estar en tu cuenta de GitHub, en el repository `PracticasComputacionI`. Además:
 * Dentro de este repository deberás de crear una carpeta llamada `Tienda`.
-* Tendrás tres archivos fuente: el principal `Tienda.cpp`, así como los correspondientes a una clase `Almacen` cons sus respectivos `Almacen.cpp` y `Almacen.h`, estso últimos dos serán los utilizados para evaluar tu práctica, y por tanto deberán de encontrarse en la carpeta dentro de tu repository en GitHub.
+* Tendrás tres archivos fuente: el principal `Tienda.cpp`, así como los correspondientes a una clase `Almacen` cons sus respectivos `Almacen.cpp` y `Almacen.h` todos ellos deberán de estar en la carpeta mencionada en el punto anterior.
 
-Puedes probar que tus **dos archivos** se encuentren correctamente en tu GitHub accediendo a `https://github.com/<TUUSUARIO>/PracticasComputacionI/tree/master/Tienda` desde tu navegador, modificando el valor de `<TUUSUARIO>` con tu nombre de usuario de GitHub. Al ingresar a esta URL deberán de aparecer los códigos fuente que serán la solución a tu práctica.
+Puedes probar que tus **tres archivos** se encuentren correctamente en tu GitHub accediendo a `https://github.com/<TUUSUARIO>/PracticasComputacionI/tree/master/Tienda` desde tu navegador, modificando el valor de `<TUUSUARIO>` con tu nombre de usuario de GitHub. Al ingresar a esta URL deberán de aparecer los códigos fuente que serán la solución a tu práctica.
 
 ## Sitios de interés
 
