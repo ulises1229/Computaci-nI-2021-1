@@ -5,9 +5,9 @@
 |Arreglos|✔️|✔️|✔️|✔️|✔️|✔️|10.0|b936f32ae722c3ac418f17d958d2db968006630e|20-10-2020 10:23:29|27-10-2020 22:28:09|22-10-2020 21:00:00|///|
 |CargaElectrica|✔️|✔️|✔️|✔️|✔️|✔️|10.0|f90311cbebe1509aa2a60f4485f22af5e620d7ae|18-11-2020 23:46:22|19-11-2020 21:08:23|19-11-2020 21:00:00|///|
 |Calculadora|✔️|✔️|✔️|✔️|✔️|✔️|10.0|2be96eb3c12c88ce2e7ca157cfb174561eb74ca1|11-10-2020 20:54:38|15-10-2020 21:24:41|15-10-2020 21:00:00|nan|
-|Tienda|✔️|✔️|✔️|✔️|❌|❌|8.666666666666668|3ad279ff000ec134cb5543b8e9315b6cf89dba1e|10-12-2020 21:06:47|10-12-2020 21:07:39|11-12-2020 21:00:00|//No reduce correctamente el inventario de un artículo si se ingresa una cantidad negativa/No impide ingresar una cantidad negativa que provoque un inventario negativo de un artículo|
+|Tienda|✔️|✔️|✔️|✔️|✔️|✔️|10.0|4feb0c601e3ff7332017975fbc78e6c52c182067|11-12-2020 18:47:29|11-12-2020 21:12:51|11-12-2020 21:00:00|///|
 |Puntos|✔️|✔️|✔️|✔️|✔️|✔️|10.0|941de9de3763d02a40dc29a275af50187f905224|04-11-2020 17:41:50|04-11-2020 21:03:41|05-11-2020 21:00:00|///|
 |Almacen|✔️|✔️|✔️|✔️|✔️|✔️|10.0|f75c1ccfa3b3306a7d68a87593fd9573811d12b5|02-12-2020 16:56:26|02-12-2020 21:03:09|04-12-2020 21:00:00|///|
 |PuntoIsoelectrico|✔️|✔️|✔️|❌|❌|❌|5.333333333333333|cb2675a6044485ba194ebab7267c88b210b2f2be|01-12-2020 14:25:22|01-12-2020 21:05:13|26-11-2020 21:00:00|/No evalúa correctamente el punto isoeléctrico de la molécula/No evalúa correctamente el punto isoeléctrico de la molécula/No evalúa correctamente el punto isoeléctrico si los pkas de los grupos no se dan en orden ascendente|
 
-Última actualización: 10-12-2020 21:09
+Última actualización: 11-12-2020 21:15

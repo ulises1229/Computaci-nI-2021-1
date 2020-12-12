@@ -8,7 +8,7 @@
 |CargaElectrica|✔️|✔️|✔️|✔️|✔️|❌|10.0|5eec44c3c84bba2dd5d00e4627d35bf8074f8838|19-11-2020 15:28:37|19-11-2020 21:03:01|19-11-2020 21:00:00|///No calcula correctamente la carga de la molécula|
 |Calculadora|✔️|✔️|✔️|✔️|✔️|✔️|10.0|a90453cbaf46f194704ec23405ae78de07ead4ca|17-10-2020 10:58:04|17-10-2020 21:00:21|15-10-2020 21:00:00|Entrega fuera de tiempo|
 |Calculadora|✔️|❌|❌|❌|❌|❌|nan|1f68081c41ef254e3bc362377bd3052352625f93|11-10-2020 17:00:33|15-10-2020 21:23:45|15-10-2020 21:00:00|Tu código no compila|
-|Tienda|✔️|✔️|❌|❌|❌|❌|6.0|2511fd4bd8b47f92c16264f2bfca43392818aee4|10-12-2020 20:30:29|10-12-2020 21:03:12|11-12-2020 21:00:00|No genera correctamente el inventario/No impide añadir un artículo por primera vez con cantidad negativa/No reduce correctamente el inventario de un artículo si se ingresa una cantidad negativa/No impide ingresar una cantidad negativa que provoque un inventario negativo de un artículo|
+|Tienda|✔️|✔️|✔️|✔️|✔️|✔️|10.0|a8d4f46d64d251e2fdea3322e63030fe09023617|11-12-2020 20:18:55|11-12-2020 21:05:20|11-12-2020 21:00:00|///|
 |Puntos|✔️|✔️|✔️|✔️|✔️|✔️|10.0|582782b9f7f0c647db623e075120badc363ce313|05-11-2020 15:41:19|05-11-2020 21:00:59|05-11-2020 21:00:00|///|
 
-Última actualización: 10-12-2020 21:05
+Última actualización: 11-12-2020 21:07
