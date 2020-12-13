@@ -5,9 +5,9 @@
 |Arreglos|✔️|✔️|✔️|✔️|✔️|✔️|10.0|38c51449594af3553dc59c5ce8b7747089c2f30c|20-10-2020 14:33:08|27-10-2020 22:18:09|22-10-2020 21:00:00|///|
 |PuntoIsoelectrico|✔️|❌|❌|❌|❌|❌|5.0|ab98be5cded3ee991ee22f955a72952ef1a5c992|26-11-2020 18:18:08|26-11-2020 21:00:31|26-11-2020 21:00:00|Tu código no compila|
 |Calculadora|✔️|✔️|✔️|✔️|❌|✔️|10.0|d235b55bade3f45620e680952395fa8bff570d8b|19-10-2020 10:13:42|19-10-2020 21:07:47|15-10-2020 21:00:00|No implementa la operación módulo|
-|Tienda|❌|❌|❌|❌|❌|❌|5.0|nan|nan|11-12-2020 21:02:50|11-12-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Tienda/Almacen.cpp|
-|Almacen|❌|❌|❌|❌|❌|❌|5.0|nan|nan|11-12-2020 21:02:49|04-12-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Almacen/Almacen.cpp|
-|CargaElectrica|❌|❌|❌|❌|❌|❌|5.0|nan|nan|11-12-2020 21:02:47|19-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/CargaElectrica/CargaElectrica.cpp|
+|Tienda|❌|❌|❌|❌|❌|❌|5.0|nan|nan|12-12-2020 21:00:42|11-12-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Tienda/Almacen.cpp|
+|Almacen|❌|❌|❌|❌|❌|❌|5.0|nan|nan|12-12-2020 21:00:41|04-12-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Almacen/Almacen.cpp|
+|CargaElectrica|❌|❌|❌|❌|❌|❌|5.0|nan|nan|12-12-2020 21:00:39|19-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/CargaElectrica/CargaElectrica.cpp|
 |Puntos|✔️|✔️|✔️|❌|✔️|❌|7.166666666666668|a57ab00072550c4ec541d8ddd7a600e81e15ba41|09-11-2020 08:39:48|09-11-2020 21:00:27|05-11-2020 21:00:00|/No aplica correctamente la rotación//No hace correctamente la rotación con ángulos negativos|
 
-Última actualización: 11-12-2020 21:02
+Última actualización: 12-12-2020 21:00
