@@ -6,8 +6,8 @@
 |Tienda|✔️|❌|❌|❌|❌|❌|5.0|b63e64bf52d616fd4478f3b6e1b2f04d6156ce42|17-12-2020 22:10:50|18-12-2020 21:01:57|11-12-2020 21:00:00|Tu código no compila|
 |GaussJordan|✔️|❌|❌|❌|❌|❌|5.0|3404e4e9d3859b54fef1896a8cdd236f07fb2c3c|03-11-2020 07:37:22|03-11-2020 21:30:17|19-11-2020 21:00:00|Tu código no compila|
 |Almacen|✔️|❌|❌|❌|❌|❌|5.0|1fc6ff17df38cda66703753c61cc1607017de58e|01-12-2020 21:13:05|02-12-2020 21:00:16|04-12-2020 21:00:00|Tu código no compila|
-|CargaElectrica|❌|❌|❌|❌|❌|❌|5.0|nan|nan|01-01-2021 22:36:40|19-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/CargaElectrica/CargaElectrica.cpp|
-|Puntos|❌|❌|❌|❌|❌|❌|5.0|nan|nan|01-01-2021 22:36:39|05-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Puntos/Punto.cpp|
-|Arreglos|❌|❌|❌|❌|❌|❌|5.0|nan|nan|01-01-2021 22:36:37|22-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|
+|CargaElectrica|❌|❌|❌|❌|❌|❌|5.0|nan|nan|02-01-2021 21:00:18|19-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/CargaElectrica/CargaElectrica.cpp|
+|Puntos|❌|❌|❌|❌|❌|❌|5.0|nan|nan|02-01-2021 21:00:17|05-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Puntos/Punto.cpp|
+|Arreglos|❌|❌|❌|❌|❌|❌|5.0|nan|nan|02-01-2021 21:00:14|22-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|
 
-Última actualización: 01-01-2021 22:36
+Última actualización: 02-01-2021 21:00
