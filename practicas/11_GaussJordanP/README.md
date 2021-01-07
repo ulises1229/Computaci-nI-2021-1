@@ -15,7 +15,7 @@
 
 El código fuente de la solución de tu práctica (que deberá tener una extensión .cpp) deberá de estar en tu cuenta de GitHub, en el repository `PracticasComputacionI`. Además:
 * Dentro de este repository deberás de crear una carpeta llamada `GaussJordanP`.
-* Tendrás un único archivo fuente: `GaussJordanP.py`, nota que debe de tener una extensión `.py`, esto quiere decir que si llevas a cabo tu práctica en un notebook (i.e. con extensión `.ipynb`) no funcionará de forma correcta. Si hiciste tu práctica en un notebook de pyhton en [Google Collab](https://colab.research.google.com/) recuerda que tienes la posibilidad de descargarlo como un archivo `.py`, situación similar aplica para casi cualquier otro IDE que soporte notebook de Python (e.g. Jupyter Notebook, Jupyter Lab, etc.)
+* Tendrás un único archivo fuente: `GaussJordanP.py`, nota que debe de tener una extensión `.py`, esto quiere decir que si llevas a cabo tu práctica en un notebook (i.e. con extensión `.ipynb`) no funcionará de forma correcta. Si hiciste tu práctica en un notebook de python en [Google Collab](https://colab.research.google.com/) recuerda que tienes la posibilidad de descargarlo como un archivo `.py`, situación similar aplica para casi cualquier otro IDE que soporte notebook de Python (e.g. Jupyter Notebook, Jupyter Lab, etc.)
 
 Puedes probar que tu archivo se encuentre de forma correcta en tu GitHub accediendo a `https://github.com/<TUUSUARIO>/PracticasComputacionI/tree/master/GaussJordanP` desde tu navegador, modificando el valor de `<TUUSUARIO>` con tu nombre de usuario de GitHub. Al ingresar a esta URL deberá de aparecer tu código fuente, que será la solución a tu práctica.
 
