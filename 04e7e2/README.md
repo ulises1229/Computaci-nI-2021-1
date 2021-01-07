@@ -2,12 +2,12 @@
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|Grade|CommitHash|CommitDate|CheckDate|DueDate|Comments|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
 |Calculadora|✔️|✔️|✔️|✔️|✔️|❌|10.0|8f3759d3941afe92f7b5bf62ba6440d44ef454cf|14-10-2020 23:12:07|15-10-2020 21:24:12|15-10-2020 21:00:00|No evita la división entre cero|
-|Tienda|❌|❌|❌|❌|❌|❌|5.0|nan|nan|06-01-2021 08:59:59|11-12-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Tienda/Almacen.cpp|
-|Almacen|❌|❌|❌|❌|❌|❌|5.0|nan|nan|06-01-2021 08:59:58|04-12-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Almacen/Almacen.cpp|
-|PuntoIsoelectrico|❌|❌|❌|❌|❌|❌|5.0|nan|nan|06-01-2021 08:59:57|26-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/PuntoIsoelectrico/Grupo.cpp|
-|CargaElectrica|❌|❌|❌|❌|❌|❌|5.0|nan|nan|06-01-2021 08:59:55|19-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/CargaElectrica/CargaElectrica.cpp|
-|Puntos|❌|❌|❌|❌|❌|❌|5.0|nan|nan|06-01-2021 08:59:54|05-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Puntos/Punto.cpp|
-|GaussJordan|❌|❌|❌|❌|❌|❌|5.0|nan|nan|06-01-2021 08:59:53|19-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordan/GaussJordan.cpp|
-|Arreglos|❌|❌|❌|❌|❌|❌|5.0|nan|nan|06-01-2021 08:59:52|22-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|
+|Tienda|❌|❌|❌|❌|❌|❌|5.0|nan|nan|06-01-2021 21:03:44|11-12-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Tienda/Almacen.cpp|
+|Almacen|❌|❌|❌|❌|❌|❌|5.0|nan|nan|06-01-2021 21:03:43|04-12-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Almacen/Almacen.cpp|
+|PuntoIsoelectrico|❌|❌|❌|❌|❌|❌|5.0|nan|nan|06-01-2021 21:03:42|26-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/PuntoIsoelectrico/Grupo.cpp|
+|CargaElectrica|❌|❌|❌|❌|❌|❌|5.0|nan|nan|06-01-2021 21:03:41|19-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/CargaElectrica/CargaElectrica.cpp|
+|Puntos|❌|❌|❌|❌|❌|❌|5.0|nan|nan|06-01-2021 21:03:40|05-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Puntos/Punto.cpp|
+|GaussJordan|❌|❌|❌|❌|❌|❌|5.0|nan|nan|06-01-2021 21:03:39|19-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordan/GaussJordan.cpp|
+|Arreglos|❌|❌|❌|❌|❌|❌|5.0|nan|nan|06-01-2021 21:03:38|22-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|
 
-Última actualización: 06-01-2021 09:00
+Última actualización: 06-01-2021 21:03
