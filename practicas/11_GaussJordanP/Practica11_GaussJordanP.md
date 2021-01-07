@@ -4,7 +4,7 @@
 
 Nuevo año, nuevo lenguaje. `print("Hola Python!")`.
 
-En esta ocasión vas a reforzar los conocimientos básicos de este nuevo lenguaje llevando a cabo una práctica que ya realizamos anteriormente en C++, pero ahora con la sintáxis de Python. Esa práctica es el método de Gauss Jordan para resolver sistemas de ecuaciones, que llevaste a cabo en la [práctica 5](https://github.com/ulises1229/ComputacionI-2021-1/tree/master/practicas/5_GaussJordan), con la ligera variante de que en esta ocasión **vamos a pedirle al usuario que indique el número de ecuaciones en el sistema**.
+En esta ocasión vas a reforzar los conocimientos básicos de este nuevo lenguaje llevando a cabo una práctica que ya realizamos anteriormente en C++, pero ahora con la sintáxis de Python. Esa práctica es el método de Gauss Jordan para resolver sistemas de ecuaciones, que llevaste a cabo en la [práctica 5](../5_GaussJordan), con la ligera variante de que en esta ocasión **vamos a pedirle al usuario que indique el número de ecuaciones en el sistema**.
 
 ## Implementación
 En esta práctica tendrás que implementar el método de Gauss Jordan en Python en un archivo `GaussJordanP.py`.
@@ -13,7 +13,7 @@ En esta práctica tendrás que implementar el método de Gauss Jordan en Python 
 Puedes desarrollar tu práctica en un Notebook de Python (i.e. archivo con extensión `.ipynb`), sin embargo, para poder calificarla será necesario que en tu repository en GitHub la subas como un archivo de código fuente `.py`, de forma contraria podría haber problemas al momento de calificar. Aún así, no te limites a subir a tu repository tu Notebook si así lo deseas.
 
 ### Ejemplo de funcionamiento
-Retomando el ejemplo en la [práctica 5](https://github.com/ulises1229/ComputacionI-2021-1/blob/master/practicas/5_GaussJordan/Practica5_GaussJordan.md#ejemplo-de-funcionamiento), tenemos lo siguiente:
+Retomando el ejemplo en la [práctica 5](../5_GaussJordan/Practica5_GaussJordan.md#ejemplo-de-funcionamiento), tenemos lo siguiente:
 
 A continuación se muestra un ejemplo de cómo debería de lucir la ejecución de tu código sobre un sistema de ecuaciones que luce de la siguiente forma:
 
