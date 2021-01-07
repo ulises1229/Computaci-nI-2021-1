@@ -41,6 +41,7 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 |8.Punto Isoeléctrico|<ol><li>Programación orientada a objetos</li><li>Vectores en C++</li></ol>|<ul><li>[Presentación](practicas/8_PuntoIsoelectrico/PuntoIsoelectricoPresentacion.pdf)</li><li>[Ejemplo "Alumnos"](practicas/8_PuntoIsoelectrico/EjemploAlumnos)</li><li>[Práctica](practicas/8_PuntoIsoelectrico)</li></ul>|19/11/20|
 |9.Almacén|<ol><li>Apuntadores en C++</li></ol>|<ul><li>[Ejemplo "Alumnos"](practicas/9_Almacen/EjemploAlumnos)</li><li>[Práctica](practicas/9_Almacen)</li></ul>|26/11/20|
 |10.Tienda|<ol><li>Estructuras de datos en C++</li></ol>|<ul><li>[~Práctica~(suspendida)](practicas/10_TiendaOld)</li><li>[Práctica](practicas/10_Tienda)</li></ul>|03/12/20|
+|11.GaussJordanP|<ol><li>Lenguaje Python</li><li>Instrucciones de control (condicionales)</li><li>Operadores aritméticos</li><li>Operadores lógicos</li><li>Estructuras de datos</li></ol>|<ul><li>[Práctica](practicas/11_GaussJordanP)</li></ul>|07/01/21|
 
 
 ## Calificaciones
