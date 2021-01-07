@@ -48,4 +48,4 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 Puedes encontrar las revisiones de tus prácticas en [este sitio](https://github.com/ulises1229/ComputacionI-2021-1/tree/Grades)
 
 
-#### Última modificación: 04 de noviembre de 2020
+#### Última modificación: 07 de diciembre de 2020
