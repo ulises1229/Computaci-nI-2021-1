@@ -9,7 +9,7 @@
 |Calculadora|✔️|✔️|✔️|✔️|✔️|✔️|10.0|a90453cbaf46f194704ec23405ae78de07ead4ca|17-10-2020 10:58:04|17-10-2020 21:00:21|15-10-2020 21:00:00|Entrega fuera de tiempo|
 |Calculadora|✔️|❌|❌|❌|❌|❌|nan|1f68081c41ef254e3bc362377bd3052352625f93|11-10-2020 17:00:33|15-10-2020 21:23:45|15-10-2020 21:00:00|Tu código no compila|
 |Tienda|✔️|✔️|✔️|✔️|✔️|✔️|10.0|a8d4f46d64d251e2fdea3322e63030fe09023617|11-12-2020 20:18:55|11-12-2020 21:05:20|11-12-2020 21:00:00|///|
-|GaussJordanP|✔️|✔️|❌|❌|❌|❌|6.0|18234bcbd88e72b61d983ed6efbd9ff28379f025|07-01-2021 12:41:35|07-01-2021 21:04:10|14-01-2021 21:00:00|No aplica correctamente el método de Gauss-Jordan/No aplica correctamente el método de Gauss-Jordan/No avisa al usuario que el sistema no tiene solución/No intercambia las filas cuando un pivote es cero|
+|GaussJordanP|✔️|✔️|❌|❌|❌|❌|6.0|18234bcbd88e72b61d983ed6efbd9ff28379f025|07-01-2021 12:41:35|07-01-2021 21:24:13|14-01-2021 21:00:00|No aplica correctamente el método de Gauss-Jordan/No aplica correctamente el método de Gauss-Jordan/No avisa al usuario que el sistema no tiene solución/No intercambia las filas cuando un pivote es cero|
 |Puntos|✔️|✔️|✔️|✔️|✔️|✔️|10.0|582782b9f7f0c647db623e075120badc363ce313|05-11-2020 15:41:19|05-11-2020 21:00:59|05-11-2020 21:00:00|///|
 
-Última actualización: 07-01-2021 21:05
+Última actualización: 07-01-2021 21:25

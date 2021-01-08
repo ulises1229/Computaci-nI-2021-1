@@ -7,8 +7,8 @@
 |CargaElectrica|✔️|✔️|✔️|✔️|✔️|✔️|8.0|a4e111862442c49fc308a46908441b0d4d521709|24-11-2020 13:05:49|24-11-2020 21:01:33|19-11-2020 21:00:00|///|
 |Calculadora|✔️|✔️|✔️|✔️|✔️|❌|10.0|02aab6ddd9e3fc2a91f84970dd1a59ce8c4ba563|11-10-2020 20:51:50|15-10-2020 21:24:17|15-10-2020 21:00:00|No evita la división entre cero|
 |Tienda|✔️|✔️|✔️|❌|✔️|✔️|10.0|503f5aee94008e31fb3d5b69edf5bb52dcf27744|07-12-2020 20:00:30|08-12-2020 21:01:43|11-12-2020 21:00:00|/No impide añadir un artículo por primera vez con cantidad negativa//|
-|GaussJordanP|❌|❌|❌|❌|❌|❌|5.0|nan|nan|07-01-2021 21:06:05|14-01-2021 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordanP/GaussJordanP.py|
+|GaussJordanP|❌|❌|❌|❌|❌|❌|5.0|nan|nan|07-01-2021 21:26:20|14-01-2021 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordanP/GaussJordanP.py|
 |Puntos|✔️|✔️|✔️|✔️|✔️|✔️|10.0|8add20279a1692501aa8138cf1ce23afb84757fd|05-11-2020 09:47:35|05-11-2020 21:02:48|05-11-2020 21:00:00|///|
 |Almacen|✔️|✔️|✔️|✔️|✔️|✔️|10.0|9157581f73942ce40dba7cc33358f73ca12e471b|01-12-2020 11:14:50|01-12-2020 21:03:49|04-12-2020 21:00:00|///|
 
-Última actualización: 07-01-2021 21:06
+Última actualización: 07-01-2021 21:26

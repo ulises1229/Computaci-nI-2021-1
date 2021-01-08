@@ -8,7 +8,7 @@
 |CargaElectrica|✔️|✔️|✔️|✔️|✔️|✔️|10.0|6686d63dfef30f510f89e5bf3a50177e328b5b87|16-11-2020 13:01:40|16-11-2020 21:19:56|19-11-2020 21:00:00|///|
 |Calculadora|✔️|✔️|✔️|✔️|✔️|✔️|10.0|d99465d468b8d2e1d35ec66dc6dc51ca7941df8c|09-10-2020 11:04:00|15-10-2020 21:24:51|15-10-2020 21:00:00|nan|
 |Tienda|✔️|✔️|✔️|✔️|✔️|✔️|10.0|3b3a45143faeee04827a9c9ccb35cc3b30b863be|07-12-2020 11:08:23|08-12-2020 21:04:25|11-12-2020 21:00:00|///|
-|GaussJordanP|✔️|✔️|✔️|✔️|❌|❌|8.666666666666668|630f199711b0ee61d2f5ab6ed96f9bf50d65afdd|07-01-2021 14:58:03|07-01-2021 21:06:40|14-01-2021 21:00:00|//No avisa al usuario que el sistema no tiene solución/No intercambia las filas cuando un pivote es cero|
+|GaussJordanP|✔️|✔️|✔️|✔️|✔️|❌|10.0|630f199711b0ee61d2f5ab6ed96f9bf50d65afdd|07-01-2021 14:58:03|07-01-2021 21:26:55|14-01-2021 21:00:00|///No intercambia las filas cuando un pivote es cero|
 |Puntos|✔️|✔️|✔️|✔️|✔️|✔️|10.0|8d133152707dafbf62622b55211466791e4c9642|03-11-2020 11:22:37|03-11-2020 21:33:06|05-11-2020 21:00:00|///|
 
-Última actualización: 07-01-2021 21:07
+Última actualización: 07-01-2021 21:28

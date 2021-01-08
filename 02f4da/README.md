@@ -1,14 +1,14 @@
 # Calificaciones: 02f4da
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|Grade|CommitHash|CommitDate|CheckDate|DueDate|Comments|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|GaussJordanP|❌|❌|❌|❌|❌|❌|5.0|nan|nan|07-01-2021 21:05:44|14-01-2021 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordanP/GaussJordanP.py|
-|Tienda|❌|❌|❌|❌|❌|❌|5.0|nan|nan|07-01-2021 21:05:43|11-12-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Tienda/Almacen.cpp|
-|Almacen|❌|❌|❌|❌|❌|❌|5.0|nan|nan|07-01-2021 21:05:42|04-12-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Almacen/Almacen.cpp|
-|CargaElectrica|❌|❌|❌|❌|❌|❌|5.0|nan|nan|07-01-2021 21:05:41|19-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/CargaElectrica/CargaElectrica.cpp|
-|PuntoIsoelectrico|❌|❌|❌|❌|❌|❌|5.0|nan|nan|07-01-2021 21:05:41|26-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/PuntoIsoelectrico/Grupo.cpp|
-|Puntos|❌|❌|❌|❌|❌|❌|5.0|nan|nan|07-01-2021 21:05:40|05-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Puntos/Punto.cpp|
-|GaussJordan|❌|❌|❌|❌|❌|❌|5.0|nan|nan|07-01-2021 21:05:39|19-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordan/GaussJordan.cpp|
-|Arreglos|❌|❌|❌|❌|❌|❌|5.0|nan|nan|07-01-2021 21:05:38|22-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|
-|Calculadora|❌|❌|❌|❌|❌|❌|5.0|nan|nan|07-01-2021 21:05:37|15-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Calculadora/Calculadora.cpp|
+|GaussJordanP|❌|❌|❌|❌|❌|❌|5.0|nan|nan|07-01-2021 21:25:55|14-01-2021 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordanP/GaussJordanP.py|
+|Tienda|❌|❌|❌|❌|❌|❌|5.0|nan|nan|07-01-2021 21:25:54|11-12-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Tienda/Almacen.cpp|
+|Almacen|❌|❌|❌|❌|❌|❌|5.0|nan|nan|07-01-2021 21:25:53|04-12-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Almacen/Almacen.cpp|
+|PuntoIsoelectrico|❌|❌|❌|❌|❌|❌|5.0|nan|nan|07-01-2021 21:25:52|26-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/PuntoIsoelectrico/Grupo.cpp|
+|Puntos|❌|❌|❌|❌|❌|❌|5.0|nan|nan|07-01-2021 21:25:51|05-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Puntos/Punto.cpp|
+|CargaElectrica|❌|❌|❌|❌|❌|❌|5.0|nan|nan|07-01-2021 21:25:51|19-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/CargaElectrica/CargaElectrica.cpp|
+|GaussJordan|❌|❌|❌|❌|❌|❌|5.0|nan|nan|07-01-2021 21:25:50|19-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordan/GaussJordan.cpp|
+|Arreglos|❌|❌|❌|❌|❌|❌|5.0|nan|nan|07-01-2021 21:25:49|22-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|
+|Calculadora|❌|❌|❌|❌|❌|❌|5.0|nan|nan|07-01-2021 21:25:48|15-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Calculadora/Calculadora.cpp|
 
-Última actualización: 07-01-2021 21:05
+Última actualización: 07-01-2021 21:25
