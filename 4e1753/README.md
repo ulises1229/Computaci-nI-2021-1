@@ -6,9 +6,9 @@
 |PuntoIsoelectrico|✔️|❌|❌|❌|❌|❌|5.0|ab98be5cded3ee991ee22f955a72952ef1a5c992|26-11-2020 18:18:08|26-11-2020 21:00:31|26-11-2020 21:00:00|Tu código no compila|
 |Calculadora|✔️|✔️|✔️|✔️|❌|✔️|10.0|d235b55bade3f45620e680952395fa8bff570d8b|19-10-2020 10:13:42|19-10-2020 21:07:47|15-10-2020 21:00:00|No implementa la operación módulo|
 |Puntos|✔️|✔️|✔️|❌|✔️|❌|7.166666666666668|a57ab00072550c4ec541d8ddd7a600e81e15ba41|09-11-2020 08:39:48|09-11-2020 21:00:27|05-11-2020 21:00:00|/No aplica correctamente la rotación//No hace correctamente la rotación con ángulos negativos|
-|GaussJordanP|❌|❌|❌|❌|❌|❌|5.0|nan|nan|07-01-2021 21:23:52|14-01-2021 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordanP/GaussJordanP.py|
-|Tienda|❌|❌|❌|❌|❌|❌|5.0|nan|nan|07-01-2021 21:23:51|11-12-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Tienda/Almacen.cpp|
-|Almacen|❌|❌|❌|❌|❌|❌|5.0|nan|nan|07-01-2021 21:23:49|04-12-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Almacen/Almacen.cpp|
-|CargaElectrica|❌|❌|❌|❌|❌|❌|5.0|nan|nan|07-01-2021 21:23:47|19-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/CargaElectrica/CargaElectrica.cpp|
+|GaussJordanP|❌|❌|❌|❌|❌|❌|5.0|nan|nan|08-01-2021 21:00:53|14-01-2021 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordanP/GaussJordanP.py|
+|Tienda|❌|❌|❌|❌|❌|❌|5.0|nan|nan|08-01-2021 21:00:52|11-12-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Tienda/Almacen.cpp|
+|Almacen|❌|❌|❌|❌|❌|❌|5.0|nan|nan|08-01-2021 21:00:51|04-12-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Almacen/Almacen.cpp|
+|CargaElectrica|❌|❌|❌|❌|❌|❌|5.0|nan|nan|08-01-2021 21:00:49|19-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/CargaElectrica/CargaElectrica.cpp|
 
-Última actualización: 07-01-2021 21:23
+Última actualización: 08-01-2021 21:00
