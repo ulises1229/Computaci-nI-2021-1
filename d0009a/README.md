@@ -8,7 +8,7 @@
 |Puntos|✔️|✔️|✔️|✔️|✔️|✔️|10.0|17adc55a17248a0b88c077fbaa35e464dc99081d|17-11-2020 12:55:08|17-11-2020 21:01:05|05-11-2020 21:00:00|///|
 |Calculadora|✔️|✔️|✔️|✔️|✔️|✔️|10.0|d5d4cfdfef007f180bdb90a426eb4d8e0317bca3|13-10-2020 12:54:58|15-10-2020 21:24:21|15-10-2020 21:00:00|nan|
 |Tienda|✔️|✔️|✔️|✔️|✔️|✔️|10.0|7dcb88f22ef9e962a0f58f2966bab8e87cbeaa9b|11-12-2020 01:00:58|11-12-2020 21:10:27|11-12-2020 21:00:00|///|
-|GaussJordanP|❌|❌|❌|❌|❌|❌|5.0|nan|nan|08-01-2021 21:02:10|14-01-2021 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordanP/GaussJordanP.py|
+|GaussJordanP|❌|❌|❌|❌|❌|❌|5.0|nan|nan|09-01-2021 21:01:57|14-01-2021 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordanP/GaussJordanP.py|
 |Almacen|✔️|✔️|✔️|✔️|✔️|✔️|10.0|a57341b497fceedd943b089ecd9d59f0c47bdfaa|04-12-2020 20:06:29|04-12-2020 21:01:24|04-12-2020 21:00:00|///|
 
-Última actualización: 08-01-2021 21:02
+Última actualización: 09-01-2021 21:01

@@ -7,8 +7,8 @@
 |Calculadora|✔️|✔️|✔️|✔️|✔️|✔️|10.0|2dce5efcacb9e273148d66bd3c8fab4d8c9d80e7|12-10-2020 17:31:53|15-10-2020 21:24:36|15-10-2020 21:00:00|nan|
 |Tienda|✔️|❌|❌|❌|❌|❌|5.0|58d29c2735079d813358ea597f522b907e827262|10-12-2020 14:20:00|10-12-2020 21:07:22|11-12-2020 21:00:00|Tu código no compila|
 |Almacen|✔️|✔️|❌|❌|❌|❌|5.0|58d29c2735079d813358ea597f522b907e827262|10-12-2020 14:20:00|10-12-2020 21:06:12|04-12-2020 21:00:00|No genera correctamente el inventario/No genera correctamente el inventario/No genera correctamente el inventario/No genera correctamente el inventario vacío|
-|GaussJordanP|❌|❌|❌|❌|❌|❌|5.0|nan|nan|08-01-2021 21:02:18|14-01-2021 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordanP/GaussJordanP.py|
+|GaussJordanP|❌|❌|❌|❌|❌|❌|5.0|nan|nan|09-01-2021 21:02:04|14-01-2021 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordanP/GaussJordanP.py|
 |Puntos|✔️|✔️|✔️|✔️|✔️|✔️|10.0|eafc37bba055d939c50d7b63023039b546f40b1c|05-11-2020 22:22:11|06-11-2020 21:01:16|05-11-2020 21:00:00|///|
 |PuntoIsoelectrico|✔️|❌|❌|❌|❌|❌|5.0|bdb264fb8e4c6db2719be0cc6541025b00827cc9|03-12-2020 13:52:00|03-12-2020 21:02:50|26-11-2020 21:00:00|Tu código no compila|
 
-Última actualización: 08-01-2021 21:02
+Última actualización: 09-01-2021 21:02

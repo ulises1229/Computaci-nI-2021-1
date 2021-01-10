@@ -8,7 +8,7 @@
 |CargaElectrica|✔️|✔️|✔️|✔️|✔️|✔️|10.0|5d5d8f59bacd8df68a201b343209b5cb1c1a6c00|18-11-2020 12:53:14|18-11-2020 21:36:50|19-11-2020 21:00:00|///|
 |Calculadora|✔️|✔️|✔️|✔️|✔️|✔️|10.0|3fc2592b4c67bb5d592aaeb5e410967f74685abe|08-10-2020 14:04:08|15-10-2020 21:24:08|15-10-2020 21:00:00|nan|
 |Tienda|✔️|✔️|✔️|✔️|✔️|✔️|10.0|7d0ebe48bb4c6c377ba32b6b399dfdfbd4900d23|08-12-2020 21:12:44|09-12-2020 21:14:28|11-12-2020 21:00:00|///|
-|GaussJordanP|❌|❌|❌|❌|❌|❌|5.0|nan|nan|08-01-2021 21:01:46|14-01-2021 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordanP/GaussJordanP.py|
+|GaussJordanP|❌|❌|❌|❌|❌|❌|5.0|nan|nan|09-01-2021 21:01:32|14-01-2021 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordanP/GaussJordanP.py|
 |Puntos|✔️|✔️|✔️|✔️|✔️|✔️|10.0|af6e5763ef917e746ac7ea84ed905e56274de6e6|03-11-2020 19:32:21|03-11-2020 21:31:54|05-11-2020 21:00:00|///|
 
-Última actualización: 08-01-2021 21:01
+Última actualización: 09-01-2021 21:01
