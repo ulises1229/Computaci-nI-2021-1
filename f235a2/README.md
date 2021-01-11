@@ -6,9 +6,9 @@
 |CargaElectrica|✔️|✔️|✔️|✔️|✔️|✔️|10.0|f90311cbebe1509aa2a60f4485f22af5e620d7ae|18-11-2020 23:46:22|19-11-2020 21:08:23|19-11-2020 21:00:00|///|
 |Calculadora|✔️|✔️|✔️|✔️|✔️|✔️|10.0|2be96eb3c12c88ce2e7ca157cfb174561eb74ca1|11-10-2020 20:54:38|15-10-2020 21:24:41|15-10-2020 21:00:00|nan|
 |Tienda|✔️|✔️|✔️|✔️|✔️|✔️|10.0|4feb0c601e3ff7332017975fbc78e6c52c182067|11-12-2020 18:47:29|11-12-2020 21:12:51|11-12-2020 21:00:00|///|
-|GaussJordanP|❌|❌|❌|❌|❌|❌|5.0|nan|nan|09-01-2021 21:02:11|14-01-2021 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordanP/GaussJordanP.py|
+|GaussJordanP|❌|❌|❌|❌|❌|❌|5.0|nan|nan|10-01-2021 21:12:34|14-01-2021 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordanP/GaussJordanP.py|
 |Puntos|✔️|✔️|✔️|✔️|✔️|✔️|10.0|941de9de3763d02a40dc29a275af50187f905224|04-11-2020 17:41:50|04-11-2020 21:03:41|05-11-2020 21:00:00|///|
 |Almacen|✔️|✔️|✔️|✔️|✔️|✔️|10.0|f75c1ccfa3b3306a7d68a87593fd9573811d12b5|02-12-2020 16:56:26|02-12-2020 21:03:09|04-12-2020 21:00:00|///|
 |PuntoIsoelectrico|✔️|✔️|✔️|❌|❌|❌|5.333333333333333|cb2675a6044485ba194ebab7267c88b210b2f2be|01-12-2020 14:25:22|01-12-2020 21:05:13|26-11-2020 21:00:00|/No evalúa correctamente el punto isoeléctrico de la molécula/No evalúa correctamente el punto isoeléctrico de la molécula/No evalúa correctamente el punto isoeléctrico si los pkas de los grupos no se dan en orden ascendente|
 
-Última actualización: 09-01-2021 21:02
+Última actualización: 10-01-2021 21:12
