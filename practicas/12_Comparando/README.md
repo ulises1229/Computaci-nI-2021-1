@@ -24,7 +24,8 @@ Puedes probar que todo se encuentre de forma correcta en tu cuenta de GitHub acc
 
 ## Sitios de interés
 
-* [Cálculo básico del tiempo de ejecuación en C++](https://www.geeksforgeeks.org/measure-execution-time-function-cpp/)
-* [Documentación biblioteca `chrono` en C++](https://www.cplusplus.com/reference/chrono/)
-* [Cálculo básico del tiempo de ejecución en python](https://stackoverflow.com/questions/7370801/how-to-measure-elapsed-time-in-python#answers)
-* [Documentación módulos de biblioteca `time` en Python](https://docs.python.org/3/library/time.html)
+* [Documentación NumPy (en inglés)](https://numpy.org/doc/)
+* [Cálculo básico del tiempo de ejecuación en C++ (en inglés)](https://www.geeksforgeeks.org/measure-execution-time-function-cpp/)
+* [Documentación biblioteca `chrono` en C++ (en inglés)](https://www.cplusplus.com/reference/chrono/)
+* [Cálculo básico del tiempo de ejecución en python (en inglés)](https://stackoverflow.com/questions/7370801/how-to-measure-elapsed-time-in-python#answers)
+* [Documentación módulos de biblioteca `time` en Python (en inglés)](https://docs.python.org/3/library/time.html)
