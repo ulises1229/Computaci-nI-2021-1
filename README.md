@@ -14,7 +14,7 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 
 ## Código en Clase 
 
-#### C++
+### C++
 
 |Tema|Contenido|Código Fuente|
 |--|--|--|
@@ -28,11 +28,11 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 |8. Clases y objetos|Clases, objetos, atributos, métodos |<ul> <li> [Calificaciones](code/clasesCalificaciones) </li> <li> [Triángulo](code/ClaseTriangulo) </li><li> [Gauss](code/GaussJordan) </li></ul>|
 |9. Vectores |POO, vectores |<ul> <li> [Vectores std](code/vectorStd) </li> </ul>|
 
-#### Python
+### Python
 
 |Tema|Contenido|Código Fuente|
 |--|--|--|
-|1. Introducción a Python| Variables, estructuras de datos, estructuras de control, |<ul> <li> [Polinomio](code/Python/Computación_I_Unidad_4.ipynb </li> </ul>|
+|1. Introducción a Python| Variables, estructuras de datos, estructuras de control, |<ul> <li> [Intro Python](code/Python/Computación_I_Unidad_4.ipynb) </li> </ul>|
 
 
 # Prácticas
