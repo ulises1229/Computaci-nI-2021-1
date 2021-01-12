@@ -12,7 +12,7 @@ Walter André Rosales Reyes
 ## Objetivo
 Dotar al estudiante de habilidades básicas de programación y capacidad de abstracción lógica para la solución de problemas utilizando el lenguaje de programación C++ y Python.   
 
-## Código en Clase 
+## Código en Clase
 
 ### C++
 
@@ -50,8 +50,7 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 |9.Almacén|<ol><li>Apuntadores en C++</li></ol>|<ul><li>[Ejemplo "Alumnos"](practicas/9_Almacen/EjemploAlumnos)</li><li>[Práctica](practicas/9_Almacen)</li></ul>|26/11/20|
 |10.Tienda|<ol><li>Estructuras de datos en C++</li></ol>|<ul><li>[~Práctica~(suspendida)](practicas/10_TiendaOld)</li><li>[Práctica](practicas/10_Tienda)</li></ul>|03/12/20|
 |11.GaussJordanP|<ol><li>Lenguaje Python</li><li>Instrucciones de control (condicionales)</li><li>Operadores aritméticos</li><li>Operadores lógicos</li><li>Estructuras de datos</li></ol>|<ul><li>[Práctica](practicas/11_GaussJordanP)</li></ul>|07/01/21|
-
-
+|12.Comparando|<ol><li>Lenguaje C++</li><li>Lenguaje Python</li></ol>|<ul><li>[Práctica](practicas/12_Comparando)</li></ul>|14/01/21|
 
 
 
@@ -60,4 +59,4 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 Puedes encontrar las revisiones de tus prácticas en [este sitio](https://github.com/ulises1229/ComputacionI-2021-1/tree/Grades)
 
 
-#### Última modificación: 07 de enero de 2021
+#### Última modificación: 12 de enero de 2021
