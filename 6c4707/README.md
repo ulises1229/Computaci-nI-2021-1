@@ -6,9 +6,9 @@
 |PuntoIsoelectrico|✔️|✔️|✔️|❌|✔️|✔️|10.0|0206e22493653de634dd937fc81be14728c68199|26-11-2020 18:38:14|26-11-2020 21:10:56|26-11-2020 21:00:00|/No evalúa correctamente el punto isoeléctrico de la molécula//|
 |CargaElectrica|✔️|✔️|✔️|✔️|✔️|✔️|10.0|f1a87f540adeb78af2130e282612415271218f9f|19-11-2020 01:00:55|19-11-2020 21:10:56|19-11-2020 21:00:00|///|
 |Calculadora|✔️|✔️|✔️|❌|✔️|✔️|9.0|390c014d190483021bb31f9e2bb9d2cd4a30f3ac|12-10-2020 15:19:54|15-10-2020 21:24:57|15-10-2020 21:00:00|No implementa la operación multiplicación/No evita la división entre cero|
-|GaussJordanP|❌|❌|❌|❌|❌|❌|5.0|nan|nan|13-01-2021 21:03:28|14-01-2021 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordanP/GaussJordanP.py|
+|GaussJordanP|✔️|✔️|❌|❌|✔️|❌|7.333333333333333|c92faadea34fdf009529dd2254e983040b270a1f|14-01-2021 20:17:24|14-01-2021 21:10:33|14-01-2021 21:00:00|No aplica correctamente el método de Gauss-Jordan/No aplica correctamente el método de Gauss-Jordan//No intercambia las filas cuando un pivote es cero|
 |Tienda|✔️|✔️|✔️|✔️|✔️|✔️|10.0|b7972645a745f23a7a6b0bd3493e6c45c081bbc9|11-12-2020 18:54:23|11-12-2020 21:15:23|11-12-2020 21:00:00|///|
 |Puntos|✔️|✔️|✔️|✔️|✔️|✔️|10.0|81f0e2bc2a8bd7d3c8f8af72ce20c75017e41a97|06-11-2020 23:25:04|07-11-2020 22:08:25|05-11-2020 21:00:00|///|
 |Almacen|✔️|✔️|❌|❌|❌|✔️|7.333333333333332|7a40dabde17720e884aa5d9fe2c06c26014f98a1|01-12-2020 22:41:11|02-12-2020 21:04:35|04-12-2020 21:00:00|No genera correctamente el inventario/No genera correctamente el inventario/No genera correctamente el inventario/|
 
-Última actualización: 13-01-2021 21:03
+Última actualización: 14-01-2021 21:11

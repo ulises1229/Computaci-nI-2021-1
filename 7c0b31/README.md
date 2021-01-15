@@ -8,8 +8,8 @@
 |CargaElectrica|✔️|✔️|✔️|✔️|✔️|❌|10.0|5eec44c3c84bba2dd5d00e4627d35bf8074f8838|19-11-2020 15:28:37|19-11-2020 21:03:01|19-11-2020 21:00:00|///No calcula correctamente la carga de la molécula|
 |Calculadora|✔️|✔️|✔️|✔️|✔️|✔️|10.0|a90453cbaf46f194704ec23405ae78de07ead4ca|17-10-2020 10:58:04|17-10-2020 21:00:21|15-10-2020 21:00:00|Entrega fuera de tiempo|
 |Calculadora|✔️|❌|❌|❌|❌|❌|nan|1f68081c41ef254e3bc362377bd3052352625f93|11-10-2020 17:00:33|15-10-2020 21:23:45|15-10-2020 21:00:00|Tu código no compila|
-|GaussJordanP|✔️|✔️|❌|❌|❌|❌|6.0|a12761bd393d408f69b4acf4018744fc1fd3b637|12-01-2021 14:52:19|12-01-2021 21:01:07|14-01-2021 21:00:00|No aplica correctamente el método de Gauss-Jordan/No aplica correctamente el método de Gauss-Jordan/No avisa al usuario que el sistema no tiene solución/No intercambia las filas cuando un pivote es cero|
+|GaussJordanP|✔️|✔️|✔️|✔️|✔️|❌|10.0|95a5c9dc742d62ebc7d15691fb417b5d5733c76e|14-01-2021 19:44:57|14-01-2021 21:02:14|14-01-2021 21:00:00|///No intercambia las filas cuando un pivote es cero|
 |Tienda|✔️|✔️|✔️|✔️|✔️|✔️|10.0|a8d4f46d64d251e2fdea3322e63030fe09023617|11-12-2020 20:18:55|11-12-2020 21:05:20|11-12-2020 21:00:00|///|
 |Puntos|✔️|✔️|✔️|✔️|✔️|✔️|10.0|582782b9f7f0c647db623e075120badc363ce313|05-11-2020 15:41:19|05-11-2020 21:00:59|05-11-2020 21:00:00|///|
 
-Última actualización: 12-01-2021 21:02
+Última actualización: 14-01-2021 21:03
