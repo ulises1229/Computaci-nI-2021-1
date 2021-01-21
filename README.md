@@ -51,6 +51,7 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 |10.Tienda|<ol><li>Estructuras de datos en C++</li></ol>|<ul><li>[~Práctica~(suspendida)](practicas/10_TiendaOld)</li><li>[Práctica](practicas/10_Tienda)</li></ul>|03/12/20|
 |11.GaussJordanP|<ol><li>Lenguaje Python</li><li>Instrucciones de control (condicionales)</li><li>Operadores aritméticos</li><li>Operadores lógicos</li><li>Estructuras de datos</li></ol>|<ul><li>[Práctica](practicas/11_GaussJordanP)</li></ul>|07/01/21|
 |12.Comparando|<ol><li>Lenguaje C++</li><li>Lenguaje Python</li></ol>|<ul><li>[Práctica](practicas/12_Comparando)</li></ul>|14/01/21|
+|13.Auto|<ol><li>Programación orientada a objetos en Python</li></ol>|<ul><li>[Presentación](practicas/13_Auto/ProgramacionOrientadaAObjetos.pdf)</li><li>[Ejemplo "Auto"](practicas/13_Auto/POO.ipynb)</li></ul>|21/01/21|
 
 
 
@@ -59,4 +60,4 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 Puedes encontrar las revisiones de tus prácticas en [este sitio](https://github.com/ulises1229/ComputacionI-2021-1/tree/Grades)
 
 
-#### Última modificación: 12 de enero de 2021
+#### Última modificación: 21 de enero de 2021
