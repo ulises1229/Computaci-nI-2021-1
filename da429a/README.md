@@ -1,6 +1,7 @@
 # Calificaciones: da429a
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|Grade|CommitHash|CommitDate|CheckDate|DueDate|Comments|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
+|Comparando|✔️|✔️|✔️|✔️|✔️|✔️|10.0|d7850b3402f74258d9920da7d3a9f4bf9f38dea1|21-01-2021 00:00:00|31-01-2021 23:21:00|28-01-2021 21:00:00|nan|
 |GaussJordan|✔️|✔️|✔️|✔️|❌|✔️|10.0|50aace5c5a8d1a592b536f10d08fab2a65829826|25-10-2020 00:13:22|29-10-2020 21:33:54|29-10-2020 21:00:00|//No avisa al usuario que el sistema no tiene solución/|
 |Almacen|✔️|✔️|✔️|✔️|✔️|✔️|10.0|b98959049a4e883af11dbcd5fe1e27fe2f921343|28-11-2020 14:10:30|28-11-2020 21:01:16|04-12-2020 21:00:00|///|
 |Arreglos|✔️|✔️|✔️|✔️|✔️|✔️|10.0|1ff1ddae1fa309ab630dd25ad55b0aa62acc8b3a|20-10-2020 10:39:12|27-10-2020 22:23:00|22-10-2020 21:00:00|///|
@@ -11,4 +12,4 @@
 |Tienda|✔️|✔️|✔️|✔️|✔️|✔️|10.0|7d0ebe48bb4c6c377ba32b6b399dfdfbd4900d23|08-12-2020 21:12:44|09-12-2020 21:14:28|11-12-2020 21:00:00|///|
 |Puntos|✔️|✔️|✔️|✔️|✔️|✔️|10.0|af6e5763ef917e746ac7ea84ed905e56274de6e6|03-11-2020 19:32:21|03-11-2020 21:31:54|05-11-2020 21:00:00|///|
 
-Última actualización: 10-01-2021 21:12
+Última actualización: 01-02-2021 00:09

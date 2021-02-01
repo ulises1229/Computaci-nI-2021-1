@@ -1,6 +1,7 @@
 # Calificaciones: f235a2
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|Grade|CommitHash|CommitDate|CheckDate|DueDate|Comments|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
+|Comparando|❌|❌|❌|❌|❌|❌|5.0|nan|nan|31-01-2021 23:21:00|28-01-2021 21:00:00|No se encontraron archivos en PracticasComputacionI/Comparando|
 |GaussJordan|✔️|✔️|✔️|✔️|❌|❌|8.6|6c61bd7623cb49cb84277374b679f4e7dc21f944|29-10-2020 11:52:52|29-10-2020 21:39:04|29-10-2020 21:00:00|////No avisa al usuario que el sistema no tiene solución/No intercambia las filas cuando un pivote es cero|
 |Arreglos|✔️|✔️|✔️|✔️|✔️|✔️|10.0|b936f32ae722c3ac418f17d958d2db968006630e|20-10-2020 10:23:29|27-10-2020 22:28:09|22-10-2020 21:00:00|///|
 |CargaElectrica|✔️|✔️|✔️|✔️|✔️|✔️|10.0|f90311cbebe1509aa2a60f4485f22af5e620d7ae|18-11-2020 23:46:22|19-11-2020 21:08:23|19-11-2020 21:00:00|///|
@@ -11,4 +12,4 @@
 |Almacen|✔️|✔️|✔️|✔️|✔️|✔️|10.0|f75c1ccfa3b3306a7d68a87593fd9573811d12b5|02-12-2020 16:56:26|02-12-2020 21:03:09|04-12-2020 21:00:00|///|
 |PuntoIsoelectrico|✔️|✔️|✔️|❌|❌|❌|5.333333333333333|cb2675a6044485ba194ebab7267c88b210b2f2be|01-12-2020 14:25:22|01-12-2020 21:05:13|26-11-2020 21:00:00|/No evalúa correctamente el punto isoeléctrico de la molécula/No evalúa correctamente el punto isoeléctrico de la molécula/No evalúa correctamente el punto isoeléctrico si los pkas de los grupos no se dan en orden ascendente|
 
-Última actualización: 16-01-2021 23:37
+Última actualización: 01-02-2021 00:10

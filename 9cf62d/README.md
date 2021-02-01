@@ -1,7 +1,6 @@
 # Calificaciones: 9cf62d
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|Grade|CommitHash|CommitDate|CheckDate|DueDate|Comments|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|GaussJordanP|❌|❌|❌|❌|❌|❌|5.0|nan|nan|31-01-2021 23:51:48|14-01-2021 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordanP/GaussJordanP.py|
 |Comparando|❌|❌|❌|❌|❌|❌|5.0|nan|nan|31-01-2021 23:21:00|28-01-2021 21:00:00|No se encontraron archivos en PracticasComputacionI/Comparando|
 |Arreglos|✔️|✔️|✔️|✔️|✔️|✔️|10.0|1cbb6970e3e0606715ec0ba7a66e8581571c7353|22-10-2020 20:18:14|27-10-2020 22:19:36|22-10-2020 21:00:00|///|
 |PuntoIsoelectrico|✔️|✔️|❌|❌|❌|❌|6.0|7595a26c4cb251e2304f33f36b2015cb1548ccbf|26-11-2020 20:55:11|26-11-2020 21:01:09|26-11-2020 21:00:00|No evalúa correctamente el punto isoeléctrico de la molécula/No evalúa correctamente el punto isoeléctrico de la molécula/No evalúa correctamente el punto isoeléctrico de la molécula/No evalúa correctamente el punto isoeléctrico si los pkas de los grupos no se dan en orden ascendente|
@@ -11,5 +10,6 @@
 |GaussJordan|✔️|✔️|✔️|✔️|❌|✔️|10.0|223be315a44b20b3ba0b5b6bbcce93d62123803f|10-11-2020 08:44:15|10-11-2020 21:04:22|19-11-2020 21:00:00|//No avisa al usuario que el sistema no tiene solución/|
 |Puntos|✔️|✔️|✔️|✔️|✔️|✔️|10.0|965c5452cdbc5a0c6ba6d9ffdf745076adde37b9|04-11-2020 19:45:28|04-11-2020 21:01:36|05-11-2020 21:00:00|///|
 |Almacen|✔️|✔️|✔️|✔️|✔️|✔️|10.0|d289dcd440a492839b6d2c6e3dc6b05baf4220a7|03-12-2020 12:58:11|03-12-2020 21:00:47|04-12-2020 21:00:00|///|
+|GaussJordanP|❌|❌|❌|❌|❌|❌|5.0|nan|nan|01-02-2021 00:09:01|14-01-2021 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordanP/GaussJordanP.py|
 
-Última actualización: 31-01-2021 23:51
+Última actualización: 01-02-2021 00:09
