@@ -12,4 +12,4 @@
 |GaussJordanP|✔️|✔️|✔️|✔️|✔️|❌|10.0|630f199711b0ee61d2f5ab6ed96f9bf50d65afdd|07-01-2021 14:58:03|07-01-2021 21:26:55|14-01-2021 21:00:00|///No intercambia las filas cuando un pivote es cero|
 |Puntos|✔️|✔️|✔️|✔️|✔️|✔️|10.0|8d133152707dafbf62622b55211466791e4c9642|03-11-2020 11:22:37|03-11-2020 21:33:06|05-11-2020 21:00:00|///|
 
-Última actualización: 01-02-2021 00:10
+Última actualización: 02-02-2021 13:49

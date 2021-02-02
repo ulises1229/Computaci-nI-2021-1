@@ -12,4 +12,4 @@
 |Almacen|❌|❌|❌|❌|❌|❌|5.0|nan|nan|01-02-2021 00:08:45|04-12-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Almacen/Almacen.cpp|
 |CargaElectrica|❌|❌|❌|❌|❌|❌|5.0|nan|nan|01-02-2021 00:08:44|19-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/CargaElectrica/CargaElectrica.cpp|
 
-Última actualización: 01-02-2021 00:08
+Última actualización: 02-02-2021 13:49

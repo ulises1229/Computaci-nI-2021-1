@@ -12,4 +12,4 @@
 |PuntoIsoelectrico|✔️|❌|❌|❌|❌|❌|5.0|bdb264fb8e4c6db2719be0cc6541025b00827cc9|03-12-2020 13:52:00|03-12-2020 21:02:50|26-11-2020 21:00:00|Tu código no compila|
 |GaussJordanP|❌|❌|❌|❌|❌|❌|5.0|nan|nan|01-02-2021 00:10:14|14-01-2021 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordanP/GaussJordanP.py|
 
-Última actualización: 01-02-2021 00:10
+Última actualización: 02-02-2021 13:49

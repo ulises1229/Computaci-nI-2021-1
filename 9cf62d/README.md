@@ -12,4 +12,4 @@
 |Almacen|✔️|✔️|✔️|✔️|✔️|✔️|10.0|d289dcd440a492839b6d2c6e3dc6b05baf4220a7|03-12-2020 12:58:11|03-12-2020 21:00:47|04-12-2020 21:00:00|///|
 |GaussJordanP|❌|❌|❌|❌|❌|❌|5.0|nan|nan|01-02-2021 00:09:01|14-01-2021 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordanP/GaussJordanP.py|
 
-Última actualización: 01-02-2021 00:09
+Última actualización: 02-02-2021 13:49

@@ -12,4 +12,4 @@
 |Arreglos|❌|❌|❌|❌|❌|❌|5.0|nan|nan|01-02-2021 00:09:17|22-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|
 |Calculadora|❌|❌|❌|❌|❌|❌|5.0|nan|nan|01-02-2021 00:09:16|15-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Calculadora/Calculadora.cpp|
 
-Última actualización: 01-02-2021 00:09
+Última actualización: 02-02-2021 13:49

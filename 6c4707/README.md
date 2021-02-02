@@ -12,4 +12,4 @@
 |Puntos|✔️|✔️|✔️|✔️|✔️|✔️|10.0|81f0e2bc2a8bd7d3c8f8af72ce20c75017e41a97|06-11-2020 23:25:04|07-11-2020 22:08:25|05-11-2020 21:00:00|///|
 |Almacen|✔️|✔️|❌|❌|❌|✔️|7.333333333333332|7a40dabde17720e884aa5d9fe2c06c26014f98a1|01-12-2020 22:41:11|02-12-2020 21:04:35|04-12-2020 21:00:00|No genera correctamente el inventario/No genera correctamente el inventario/No genera correctamente el inventario/|
 
-Última actualización: 01-02-2021 00:10
+Última actualización: 02-02-2021 13:49

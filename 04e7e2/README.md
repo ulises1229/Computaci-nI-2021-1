@@ -12,4 +12,4 @@
 |GaussJordan|❌|❌|❌|❌|❌|❌|5.0|nan|nan|01-02-2021 00:09:48|19-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordan/GaussJordan.cpp|
 |Arreglos|❌|❌|❌|❌|❌|❌|5.0|nan|nan|01-02-2021 00:09:46|22-10-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|
 
-Última actualización: 01-02-2021 00:09
+Última actualización: 02-02-2021 13:49

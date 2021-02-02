@@ -12,4 +12,4 @@
 |CargaElectrica|❌|❌|❌|❌|❌|❌|5.0|nan|nan|01-02-2021 00:10:47|19-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/CargaElectrica/CargaElectrica.cpp|
 |GaussJordan|❌|❌|❌|❌|❌|❌|5.0|nan|nan|01-02-2021 00:10:44|19-11-2020 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordan/GaussJordan.cpp|
 
-Última actualización: 01-02-2021 00:10
+Última actualización: 02-02-2021 13:49
