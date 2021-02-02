@@ -1,5 +1,7 @@
 # Revisiones de las prácticas
 
+### **AVISO:** Las calificaciones acuales serán las tomadas para determinar su calificación final en la materia. Es decir, ya no hay cambios. ¡Gracias!
+
 En esta sección del repository puedes encontrar las revisiones de tus archivos para cada una de las prácticas. 
 
 Estas revisiones se actualizan diariamente, por lo que puedes estar al pendiente cuando subas un código para conocer tus resultados.
