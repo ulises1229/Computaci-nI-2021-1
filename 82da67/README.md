@@ -1,6 +1,6 @@
 # Calificaciones: 82da67
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|Grade|CommitHash|CommitDate|CheckDate|DueDate|Comments|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|GaussJordanP|❌|❌|❌|❌|❌|❌|5.0|NA|NA|27-08-2021 23:28:33|14-01-2021 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordanP/GaussJordanP.py|
+|GaussJordanP|❌|❌|❌|❌|❌|❌|5.0|NA|NA|27-08-2021 23:38:30|14-01-2021 21:00:00|No se encontró el archivo en PracticasComputacionI/GaussJordanP/GaussJordanP.py|
 
-Última actualización: 27-08-2021 23:28
+Última actualización: 27-08-2021 23:38
